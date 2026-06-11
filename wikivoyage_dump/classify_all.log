@@ -1,0 +1,1198 @@
+[14:40:00] Classify all: 31441 articles selected; provider=deepseek-direct; db_target=staging
+[14:40:00] Classifying 's-Hertogenbosch (10)
+[14:40:04] Classified 's-Hertogenbosch: classified_keep; keep=1 skip=0 failed=0
+[14:40:04] Classifying 88 Temple Pilgrimage (27)
+[14:40:12] Classified 88 Temple Pilgrimage: classified_skip; keep=1 skip=1 failed=0
+[14:40:12] Classifying Aachen (33)
+[14:40:16] Classified Aachen: classified_keep; keep=2 skip=1 failed=0
+[14:40:16] Classifying Aakirkeby (36)
+[14:40:19] Classified Aakirkeby: classified_keep; keep=3 skip=1 failed=0
+[14:40:19] Classifying Aalborg (37)
+[14:40:24] Classified Aalborg: classified_keep; keep=4 skip=1 failed=0
+[14:40:24] Classifying Aalst (40)
+[14:40:30] Classified Aalst: classified_keep; keep=5 skip=1 failed=0
+[14:40:30] Classifying Aarau (42)
+[14:40:36] Classify failed Aarau: Model JSON missing required key: destination
+[14:40:36] Classifying Aarhus (44)
+[14:40:39] Classified Aarhus: classified_keep; keep=6 skip=1 failed=1
+[14:40:39] Classifying Aba (prefecture) (47)
+[14:40:44] Classified Aba (prefecture): classified_keep; keep=7 skip=1 failed=1
+[14:40:44] Classifying Abacos (49)
+[14:40:49] Classified Abacos: classified_keep; keep=8 skip=1 failed=1
+[14:40:49] Classifying Abadan (50)
+[14:41:19] Classify all: 31432 articles selected; provider=deepseek-direct; db_target=staging
+[14:41:19] Classifying Aarau (42)
+[14:41:23] Classified Aarau: classified_keep; keep=1 skip=0 failed=0
+[14:41:23] Classifying Abadan (50)
+[14:41:27] Classified Abadan: classified_keep; keep=2 skip=0 failed=0
+[14:41:27] Classifying Abadeh (51)
+[14:41:31] Classified Abadeh: classified_keep; keep=3 skip=0 failed=0
+[14:41:31] Classifying Abaiang (52)
+[14:41:36] Classified Abaiang: classified_keep; keep=4 skip=0 failed=0
+[14:41:36] Classifying Abakan (53)
+[14:41:40] Classified Abakan: classified_keep; keep=5 skip=0 failed=0
+[14:41:40] Classifying Abancay (56)
+[14:41:45] Classified Abancay: classified_keep; keep=6 skip=0 failed=0
+[14:41:45] Classifying Abashiri (57)
+[14:41:49] Classified Abashiri: classified_keep; keep=7 skip=0 failed=0
+[14:41:49] Classifying Abastumani (58)
+[14:41:54] Classified Abastumani: classified_keep; keep=8 skip=0 failed=0
+[14:41:54] Classifying Abbeville (59)
+[14:41:58] Classified Abbeville: classified_keep; keep=9 skip=0 failed=0
+[14:41:58] Classifying Abbeyleix (61)
+[14:42:03] Classified Abbeyleix: classified_keep; keep=10 skip=0 failed=0
+[14:42:03] Classifying Abbotsford (63)
+[14:42:06] Classified Abbotsford: classified_keep; keep=11 skip=0 failed=0
+[14:42:06] Classifying Abbottabad (65)
+[14:42:10] Classified Abbottabad: classified_keep; keep=12 skip=0 failed=0
+[14:42:10] Classifying Abel Tasman National Park (71)
+[14:42:15] Classified Abel Tasman National Park: classified_keep; keep=13 skip=0 failed=0
+[14:42:15] Classifying Abemama (72)
+[14:42:21] Classified Abemama: classified_keep; keep=14 skip=0 failed=0
+[14:42:21] Classifying Aberaeron (74)
+[14:42:25] Classified Aberaeron: classified_keep; keep=15 skip=0 failed=0
+[14:42:25] Classifying Abercrombie (76)
+[14:42:30] Classified Abercrombie: classified_keep; keep=16 skip=0 failed=0
+[14:42:30] Classifying Aberdare National Park (77)
+[14:42:35] Classified Aberdare National Park: classified_keep; keep=17 skip=0 failed=0
+[14:42:35] Classifying Aberdeen (79)
+[14:42:42] Classified Aberdeen: classified_keep; keep=18 skip=0 failed=0
+[14:42:42] Classifying Aberdeen (South Dakota) (84)
+[14:42:47] Classified Aberdeen (South Dakota): classified_keep; keep=19 skip=0 failed=0
+[14:42:47] Classifying Aberdeen (Washington) (85)
+[14:42:52] Classified Aberdeen (Washington): classified_keep; keep=20 skip=0 failed=0
+[14:42:52] Classifying Aberdeenshire (86)
+[14:42:56] Classified Aberdeenshire: classified_keep; keep=21 skip=0 failed=0
+[14:42:56] Classifying Aberdour (87)
+[14:43:02] Classified Aberdour: classified_keep; keep=22 skip=0 failed=0
+[14:43:02] Classifying Aberdyfi (89)
+[14:43:08] Classified Aberdyfi: classified_keep; keep=23 skip=0 failed=0
+[14:43:08] Classifying Aberfeldy (90)
+[14:43:12] Classified Aberfeldy: classified_keep; keep=24 skip=0 failed=0
+[14:43:12] Classifying Abergavenny (91)
+[14:43:17] Classified Abergavenny: classified_keep; keep=25 skip=0 failed=0
+[14:43:17] Classifying Abernathy (94)
+[14:43:22] Classified Abernathy: classified_keep; keep=26 skip=0 failed=0
+[14:43:22] Classifying Abersoch (96)
+[14:43:26] Classified Abersoch: classified_keep; keep=27 skip=0 failed=0
+[14:43:26] Classifying Aberystwyth (98)
+[14:43:30] Classified Aberystwyth: classified_keep; keep=28 skip=0 failed=0
+[14:43:30] Classifying Abha (99)
+[14:43:35] Classified Abha: classified_keep; keep=29 skip=0 failed=0
+[14:43:35] Classifying Abhaneri (100)
+[14:43:42] Classified Abhaneri: classified_keep; keep=30 skip=0 failed=0
+[14:43:42] Classifying Abidjan (102)
+[14:43:46] Classified Abidjan: classified_keep; keep=31 skip=0 failed=0
+[14:43:46] Classifying Abijatta Shalla Lakes National Park (103)
+[14:43:51] Classified Abijatta Shalla Lakes National Park: classified_keep; keep=32 skip=0 failed=0
+[14:43:51] Classifying Abilene (104)
+[14:43:55] Classified Abilene: classified_keep; keep=33 skip=0 failed=0
+[14:43:55] Classifying Abingdon-on-Thames (105)
+[14:44:00] Classified Abingdon-on-Thames: classified_keep; keep=34 skip=0 failed=0
+[14:44:00] Classifying Abington Township (106)
+[14:44:04] Classified Abington Township: classified_keep; keep=35 skip=0 failed=0
+[14:44:04] Classifying Abiquiu (107)
+[14:44:08] Classified Abiquiu: classified_keep; keep=36 skip=0 failed=0
+[14:44:08] Classifying Abisko and Björkliden (108)
+[14:44:17] Classified Abisko and Björkliden: classified_keep; keep=37 skip=0 failed=0
+[14:44:17] Classifying Abita Springs (109)
+[14:44:23] Classified Abita Springs: classified_keep; keep=38 skip=0 failed=0
+[14:44:23] Classifying Abitibi-Témiscamingue (112)
+[14:44:28] Classified Abitibi-Témiscamingue: classified_keep; keep=39 skip=0 failed=0
+[14:44:28] Classifying Abkhazia (114)
+[14:44:35] Classified Abkhazia: classified_keep; keep=40 skip=0 failed=0
+[14:44:35] Classifying Abkhaz phrasebook (115)
+[14:44:39] Classified Abkhaz phrasebook: classified_skip; keep=40 skip=1 failed=0
+[14:44:39] Classifying Abomey (117)
+[14:44:43] Classified Abomey: classified_keep; keep=41 skip=1 failed=0
+[14:44:43] Classifying Abrolhos (121)
+[14:44:48] Classified Abrolhos: classified_keep; keep=42 skip=1 failed=0
+[14:44:48] Classifying Abruzzo (122)
+[14:44:54] Classified Abruzzo: classified_keep; keep=43 skip=1 failed=0
+[14:44:55] Classifying Abu Dhabi (130)
+[14:45:10] Classified Abu Dhabi: classified_keep; keep=44 skip=1 failed=0
+[14:45:10] Classifying Abu Dhabi (emirate) (131)
+[14:45:14] Classified Abu Dhabi (emirate): classified_keep; keep=45 skip=1 failed=0
+[14:45:14] Classifying Abu Ghosh (132)
+[14:45:18] Classified Abu Ghosh: classified_keep; keep=46 skip=1 failed=0
+[14:45:18] Classifying Abuja (134)
+[14:45:26] Classified Abuja: classified_keep; keep=47 skip=1 failed=0
+[14:45:26] Classifying Abu Simbel (135)
+[14:45:31] Classified Abu Simbel: classified_keep; keep=48 skip=1 failed=0
+[14:45:31] Classifying Abusir (136)
+[14:45:40] Classified Abusir: classified_keep; keep=49 skip=1 failed=0
+[14:45:40] Classifying Abydos (137)
+[14:45:44] Classified Abydos: classified_keep; keep=50 skip=1 failed=0
+[14:45:44] Classifying Açailândia (138)
+[14:45:50] Classified Açailândia: classified_keep; keep=51 skip=1 failed=0
+[14:45:50] Classifying Aït-Benhaddou (139)
+[14:45:54] Classified Aït-Benhaddou: classified_keep; keep=52 skip=1 failed=0
+[14:45:54] Classifying Añasco (141)
+[14:45:59] Classified Añasco: classified_keep; keep=53 skip=1 failed=0
+[14:45:59] Classifying Acadiana (142)
+[14:46:04] Classified Acadiana: classified_keep; keep=54 skip=1 failed=0
+[14:46:04] Classifying Acadian Coast (144)
+[14:46:08] Classified Acadian Coast: classified_keep; keep=55 skip=1 failed=0
+[14:46:08] Classifying Acapulco (147)
+[14:46:12] Classified Acapulco: classified_keep; keep=56 skip=1 failed=0
+[14:46:12] Classifying Accra (153)
+[14:46:15] Classified Accra: classified_keep; keep=57 skip=1 failed=0
+[14:46:15] Classifying Accrington (154)
+[14:46:21] Classified Accrington: classified_keep; keep=58 skip=1 failed=0
+[14:46:21] Classifying Aceh (155)
+[14:46:28] Classified Aceh: classified_keep; keep=59 skip=1 failed=0
+[14:46:28] Classifying Achao (158)
+[14:46:33] Classified Achao: classified_keep; keep=60 skip=1 failed=0
+[14:46:33] Classifying Achill Island (160)
+[14:46:39] Classified Achill Island: classified_keep; keep=61 skip=1 failed=0
+[14:46:39] Classifying Achiltibuie (161)
+[14:46:43] Classified Achiltibuie: classified_keep; keep=62 skip=1 failed=0
+[14:46:43] Classifying Achinsk (162)
+[14:46:49] Classified Achinsk: classified_keep; keep=63 skip=1 failed=0
+[14:46:49] Classifying Achterhoek (163)
+[14:46:54] Classified Achterhoek: classified_keep; keep=64 skip=1 failed=0
+[14:46:54] Classifying Aci Trezza (165)
+[14:46:59] Classified Aci Trezza: classified_keep; keep=65 skip=1 failed=0
+[14:46:59] Classifying A Coruña (166)
+[14:47:03] Classified A Coruña: classified_keep; keep=66 skip=1 failed=0
+[14:47:03] Classifying Acre (Brazil) (171)
+[14:47:07] Classified Acre (Brazil): classified_keep; keep=67 skip=1 failed=0
+[14:47:07] Classifying Across Australia by train (175)
+[14:47:13] Classified Across Australia by train: classified_skip; keep=67 skip=2 failed=0
+[14:47:13] Classifying Across Canada by train (178)
+[14:47:17] Classified Across Canada by train: classified_skip; keep=67 skip=3 failed=0
+[14:47:17] Classifying Acton (Massachusetts) (181)
+[14:47:23] Classified Acton (Massachusetts): classified_keep; keep=68 skip=3 failed=0
+[14:47:23] Classifying Acton (Ontario) (182)
+[14:47:27] Classified Acton (Ontario): classified_keep; keep=69 skip=3 failed=0
+[14:47:27] Classifying Actun Tunichil Muknal (183)
+[14:47:32] Classified Actun Tunichil Muknal: classified_keep; keep=70 skip=3 failed=0
+[14:47:32] Classifying Ada (Ghana) (186)
+[14:47:41] Classified Ada (Ghana): classified_keep; keep=71 skip=3 failed=0
+[14:47:41] Classifying Ada (Michigan) (187)
+[14:47:46] Classified Ada (Michigan): classified_keep; keep=72 skip=3 failed=0
+[14:47:46] Classifying Ada (Ohio) (188)
+[14:47:50] Classified Ada (Ohio): classified_keep; keep=73 skip=3 failed=0
+[14:47:50] Classifying Ada (Oklahoma) (189)
+[14:47:54] Classified Ada (Oklahoma): classified_keep; keep=74 skip=3 failed=0
+[14:47:54] Classifying Adama (190)
+[14:47:58] Classified Adama: classified_keep; keep=75 skip=3 failed=0
+[14:47:58] Classifying Adamaoua (191)
+[14:48:02] Classified Adamaoua: classified_keep; keep=76 skip=3 failed=0
+[14:48:02] Classifying Adams (Massachusetts) (197)
+[14:48:09] Classified Adams (Massachusetts): classified_keep; keep=77 skip=3 failed=0
+[14:48:09] Classifying Adams (North Dakota) (198)
+[14:48:13] Classified Adams (North Dakota): classified_keep; keep=78 skip=3 failed=0
+[14:48:13] Classifying Adana (204)
+[14:48:17] Classified Adana: classified_keep; keep=79 skip=3 failed=0
+[14:48:17] Classifying Adare (205)
+[14:48:23] Classified Adare: classified_keep; keep=80 skip=3 failed=0
+[14:48:23] Classifying Ad Dakhla (214)
+[14:48:27] Classified Ad Dakhla: classified_keep; keep=81 skip=3 failed=0
+[14:48:27] Classifying Addison (221)
+[14:48:31] Classified Addison: classified_keep; keep=82 skip=3 failed=0
+[14:48:31] Classifying Addo (222)
+[14:48:36] Classified Addo: classified_keep; keep=83 skip=3 failed=0
+[14:48:36] Classifying Addo Elephant National Park (223)
+[14:48:42] Classified Addo Elephant National Park: classified_keep; keep=84 skip=3 failed=0
+[14:48:42] Classifying Addu (225)
+[14:48:46] Classified Addu: classified_keep; keep=85 skip=3 failed=0
+[14:48:46] Classifying Adelaide (226)
+[14:48:52] Classified Adelaide: classified_keep; keep=86 skip=3 failed=0
+[14:48:52] Classifying Adelaide Hills (227)
+[14:48:57] Classified Adelaide Hills: classified_keep; keep=87 skip=3 failed=0
+[14:48:57] Classifying Adelanto (228)
+[14:49:04] Classified Adelanto: classified_keep; keep=88 skip=3 failed=0
+[14:49:04] Classifying Aden (231)
+[14:49:08] Classified Aden: classified_keep; keep=89 skip=3 failed=0
+[14:49:08] Classifying Adirondacks (238)
+[14:49:14] Classified Adirondacks: classified_keep; keep=90 skip=3 failed=0
+[14:49:14] Classifying Adoor (245)
+[14:49:20] Classified Adoor: classified_keep; keep=91 skip=3 failed=0
+[14:49:20] Classifying Adra (246)
+[14:49:24] Classified Adra: classified_keep; keep=92 skip=3 failed=0
+[14:49:24] Classifying Adrar des Ifoghas (247)
+[14:49:28] Classified Adrar des Ifoghas: classified_keep; keep=93 skip=3 failed=0
+[14:49:28] Classifying Adrian (Michigan) (249)
+[14:49:33] Classified Adrian (Michigan): classified_keep; keep=94 skip=3 failed=0
+[14:49:33] Classifying Adrian (Texas) (250)
+[14:49:40] Classified Adrian (Texas): classified_keep; keep=95 skip=3 failed=0
+[14:49:40] Classifying Adrogué (251)
+[14:49:46] Classified Adrogué: classified_keep; keep=96 skip=3 failed=0
+[14:49:46] Classifying Aegadian Islands (253)
+[14:49:52] Classified Aegadian Islands: classified_keep; keep=97 skip=3 failed=0
+[14:49:52] Classifying Aegean Turkey (258)
+[14:49:56] Classified Aegean Turkey: classified_keep; keep=98 skip=3 failed=0
+[14:49:56] Classifying Aegina (259)
+[14:50:00] Classified Aegina: classified_keep; keep=99 skip=3 failed=0
+[14:50:00] Classifying Aeolian Islands (262)
+[14:50:05] Classified Aeolian Islands: classified_keep; keep=100 skip=3 failed=0
+[14:50:05] Classifying Afandou (266)
+[14:50:09] Classified Afandou: classified_keep; keep=101 skip=3 failed=0
+[14:50:10] Classifying Afghanistan (270)
+[14:50:16] Classified Afghanistan: classified_keep; keep=102 skip=3 failed=0
+[14:50:16] Classifying Aflao (277)
+[14:50:21] Classified Aflao: classified_keep; keep=103 skip=3 failed=0
+[14:50:21] Classifying African wildlife (279)
+[14:50:25] Classified African wildlife: classified_skip; keep=103 skip=4 failed=0
+[14:50:25] Classifying African national parks (280)
+[14:50:29] Classified African national parks: classified_skip; keep=103 skip=5 failed=0
+[14:50:29] Classifying Afrikaans phrasebook (282)
+[14:50:33] Classify failed Afrikaans phrasebook: staging psql failed: ERROR:  new row for relation "destination_classification" violates check constraint "destination_classification_backpacker_relevance_score_check"
+DETAIL:  Failing row contains (56cfd0c9-db79-459f-9f38-acd727cbe21d, 5d58f624-50d5-4585-bf80-155db6f962a8, other, low, 0, skip, f, Phrasebook page, not a destination., Title and content indicate a language phrasebook, not a travel d..., 10, 2026-06-01 21:50:32.8027+00, 2026-06-01 21:50:32.8027+00).
+[14:50:33] Classifying Afton (285)
+[14:50:36] Classified Afton: classified_keep; keep=104 skip=5 failed=1
+[14:50:36] Classifying Afula (286)
+[14:50:44] Classified Afula: classified_keep; keep=105 skip=5 failed=1
+[14:50:44] Classifying Afyonkarahisar (288)
+[14:50:48] Classified Afyonkarahisar: classified_keep; keep=106 skip=5 failed=1
+[14:50:48] Classifying Afytos (289)
+[14:50:53] Classified Afytos: classified_keep; keep=107 skip=5 failed=1
+[14:50:53] Classifying Agadez (291)
+[14:50:57] Classified Agadez: classified_keep; keep=108 skip=5 failed=1
+[14:50:57] Classifying Agadir (292)
+[14:51:02] Classified Agadir: classified_keep; keep=109 skip=5 failed=1
+[14:51:02] Classifying Hagåtña (293)
+[14:51:07] Classified Hagåtña: classified_keep; keep=110 skip=5 failed=1
+[14:51:07] Classifying Agartala (294)
+[14:51:13] Classified Agartala: classified_keep; keep=111 skip=5 failed=1
+[14:51:13] Classifying Agawam (296)
+[14:51:17] Classified Agawam: classified_keep; keep=112 skip=5 failed=1
+[14:51:17] Classifying Agdam (298)
+[14:51:21] Classified Agdam: classified_keep; keep=113 skip=5 failed=1
+[14:51:21] Classifying Ageo (304)
+[14:51:26] Classified Ageo: classified_keep; keep=114 skip=5 failed=1
+[14:51:26] Classifying Aggressive dogs (306)
+[14:51:30] Classified Aggressive dogs: classified_skip; keep=114 skip=6 failed=1
+[14:51:30] Classifying Agios Ioannis (312)
+[14:51:35] Classified Agios Ioannis: classified_keep; keep=115 skip=6 failed=1
+[14:51:35] Classifying Agios Nikolaos (314)
+[14:51:38] Classified Agios Nikolaos: classified_keep; keep=116 skip=6 failed=1
+[14:51:38] Classifying Agios Nikolaos (Chalkidiki) (315)
+[14:51:43] Classified Agios Nikolaos (Chalkidiki): classified_keep; keep=117 skip=6 failed=1
+[14:51:43] Classifying Agonda (322)
+[14:51:49] Classified Agonda: classified_keep; keep=118 skip=6 failed=1
+[14:51:49] Classifying Agost (323)
+[14:51:53] Classified Agost: classified_keep; keep=119 skip=6 failed=1
+[14:51:53] Classifying Agoura Hills (324)
+[14:51:59] Classified Agoura Hills: classified_keep; keep=120 skip=6 failed=1
+[14:51:59] Classifying Agra (325)
+[14:52:08] Classified Agra: classified_keep; keep=121 skip=6 failed=1
+[14:52:08] Classifying Agrigento (328)
+[14:52:12] Classified Agrigento: classified_keep; keep=122 skip=6 failed=1
+[14:52:12] Classifying Agrigento (province) (329)
+[14:52:16] Classified Agrigento (province): classified_keep; keep=123 skip=6 failed=1
+[14:52:16] Classifying Agritourism (331)
+[14:52:20] Classified Agritourism: classified_skip; keep=123 skip=7 failed=1
+[14:52:20] Classifying Agros (332)
+[14:52:24] Classified Agros: classified_keep; keep=124 skip=7 failed=1
+[14:52:24] Classifying Agua Blanca (338)
+[14:52:29] Classified Agua Blanca: classified_keep; keep=125 skip=7 failed=1
+[14:52:29] Classifying Aguadilla (340)
+[14:52:33] Classified Aguadilla: classified_keep; keep=126 skip=7 failed=1
+[14:52:33] Classifying Agua Prieta (342)
+[14:52:39] Classified Agua Prieta: classified_keep; keep=127 skip=7 failed=1
+[14:52:39] Classifying Aguascalientes (343)
+[14:52:43] Classified Aguascalientes: classified_keep; keep=128 skip=7 failed=1
+[14:52:43] Classifying Aguas Calientes (344)
+[14:52:46] Classified Aguas Calientes: classified_keep; keep=129 skip=7 failed=1
+[14:52:46] Classifying Aguascalientes (state) (345)
+[14:52:52] Classified Aguascalientes (state): classified_keep; keep=130 skip=7 failed=1
+[14:52:52] Classifying Aguateca (348)
+[14:52:59] Classified Aguateca: classified_keep; keep=131 skip=7 failed=1
+[14:52:59] Classifying Aguaytía (349)
+[14:53:03] Classified Aguaytía: classified_keep; keep=132 skip=7 failed=1
+[14:53:03] Classifying Agulhas National Park (351)
+[14:53:07] Classified Agulhas National Park: classified_keep; keep=133 skip=7 failed=1
+[14:53:07] Classifying Agumbe (352)
+[14:53:12] Classified Agumbe: classified_keep; keep=134 skip=7 failed=1
+[14:53:12] Classifying Ahal Province (353)
+[14:53:16] Classified Ahal Province: classified_keep; keep=135 skip=7 failed=1
+[14:53:17] Classifying Ahmedabad (357)
+[14:53:20] Classified Ahmedabad: classified_keep; keep=136 skip=7 failed=1
+[14:53:20] Classifying Ahmednagar (359)
+[14:53:25] Classified Ahmednagar: classified_keep; keep=137 skip=7 failed=1
+[14:53:25] Classifying Ahvaz (361)
+[14:53:31] Classified Ahvaz: classified_keep; keep=138 skip=7 failed=1
+[14:53:31] Classifying Ahwa (362)
+[14:53:36] Classified Ahwa: classified_keep; keep=139 skip=7 failed=1
+[14:53:36] Classifying Ai-Ais Richtersveld Transfrontier Park (366)
+[14:53:41] Classified Ai-Ais Richtersveld Transfrontier Park: classified_keep; keep=140 skip=7 failed=1
+[14:53:41] Classifying Aichi (368)
+[14:53:46] Classified Aichi: classified_keep; keep=141 skip=7 failed=1
+[14:53:46] Classifying Aigues-Mortes (370)
+[14:53:50] Classified Aigues-Mortes: classified_keep; keep=142 skip=7 failed=1
+[14:53:50] Classifying Aihole (372)
+[14:53:58] Classified Aihole: classified_keep; keep=143 skip=7 failed=1
+[14:53:58] Classifying Aiken (373)
+[14:54:03] Classified Aiken: classified_keep; keep=144 skip=7 failed=1
+[14:54:03] Classifying Ailsa Craig (375)
+[14:54:11] Classified Ailsa Craig: classified_keep; keep=145 skip=7 failed=1
+[14:54:11] Classifying Ainsa (379)
+[14:54:18] Classified Ainsa: classified_keep; keep=146 skip=7 failed=1
+[14:54:18] Classifying Ainu phrasebook (380)
+[14:54:21] Classified Ainu phrasebook: classified_skip; keep=146 skip=8 failed=1
+[14:54:21] Classifying Aioi (381)
+[14:54:25] Classified Aioi: classified_keep; keep=147 skip=8 failed=1
+[14:54:25] Classifying Airdrie (Alberta) (388)
+[14:54:29] Classified Airdrie (Alberta): classified_keep; keep=148 skip=8 failed=1
+[14:54:29] Classifying Aireys Inlet (392)
+[14:54:33] Classified Aireys Inlet: classified_keep; keep=149 skip=8 failed=1
+[14:54:33] Classifying Airlie Beach (393)
+[14:54:37] Classified Airlie Beach: classified_keep; keep=150 skip=8 failed=1
+[14:54:37] Classifying Airline alliances (394)
+[14:54:43] Classified Airline alliances: classified_skip; keep=150 skip=9 failed=1
+[14:54:43] Classifying Aitutaki (407)
+[14:54:47] Classified Aitutaki: classified_keep; keep=151 skip=9 failed=1
+[14:54:47] Classifying Aiud (408)
+[14:54:53] Classified Aiud: classified_keep; keep=152 skip=9 failed=1
+[14:54:53] Classifying Aizawl (413)
+[14:54:57] Classified Aizawl: classified_keep; keep=153 skip=9 failed=1
+[14:54:57] Classifying Aizuwakamatsu (414)
+[14:55:01] Classified Aizuwakamatsu: classified_keep; keep=154 skip=9 failed=1
+[14:55:01] Classifying Ajaccio (416)
+[14:55:06] Classified Ajaccio: classified_keep; keep=155 skip=9 failed=1
+[14:55:06] Classifying Ajai Game Reserve (417)
+[14:55:12] Classified Ajai Game Reserve: classified_keep; keep=156 skip=9 failed=1
+[14:55:12] Classifying Ajlun (422)
+[14:55:18] Classified Ajlun: classified_keep; keep=157 skip=9 failed=1
+[14:55:18] Classifying Ajman (423)
+[14:55:23] Classified Ajman: classified_keep; keep=158 skip=9 failed=1
+[14:55:23] Classifying Ajmer (424)
+[14:55:27] Classified Ajmer: classified_keep; keep=159 skip=9 failed=1
+[14:55:27] Classifying Ajmer Division (425)
+[14:55:35] Classified Ajmer Division: classified_keep; keep=160 skip=9 failed=1
+[14:55:35] Classifying Akajima (427)
+[14:55:39] Classified Akajima: classified_keep; keep=161 skip=9 failed=1
+[14:55:39] Classifying Akan National Park (429)
+[14:55:42] Classified Akan National Park: classified_keep; keep=162 skip=9 failed=1
+[14:55:42] Classifying Akaroa (430)
+[14:55:46] Classified Akaroa: classified_keep; keep=163 skip=9 failed=1
+[14:55:46] Classifying Akashi (431)
+[14:55:50] Classified Akashi: classified_keep; keep=164 skip=9 failed=1
+[14:55:50] Classifying Akçakoca (433)
+[14:55:54] Classified Akçakoca: classified_keep; keep=165 skip=9 failed=1
+[14:55:54] Classifying Aklanon phrasebook (439)
+[14:55:59] Classify failed Aklanon phrasebook: staging psql failed: ERROR:  new row for relation "destination_classification" violates check constraint "destination_classification_backpacker_relevance_score_check"
+DETAIL:  Failing row contains (ccfc2614-e780-4da3-97a0-ffb130c75e42, c86bf46b-7a06-498e-8b44-27c0f55b9ff4, travel_topic, low, 0, skip, f, This is a language phrasebook, not a travel destination., Title and sections indicate phrasebook, no geographic or travel ..., 9, 2026-06-01 21:55:58.863839+00, 2026-06-01 21:55:58.863839+00).
+[14:55:59] Classifying Oslo region (440)
+[14:56:04] Classified Oslo region: classified_keep; keep=166 skip=9 failed=2
+[14:56:04] Classifying Akhaltsikhe (441)
+[14:56:09] Classified Akhaltsikhe: classified_keep; keep=167 skip=9 failed=2
+[14:56:09] Classifying Akita (445)
+[14:56:14] Classified Akita: classified_keep; keep=168 skip=9 failed=2
+[14:56:14] Classifying Akita (prefecture) (446)
+[14:56:19] Classified Akita (prefecture): classified_keep; keep=169 skip=9 failed=2
+[14:56:19] Classifying Akko (452)
+[14:56:24] Classified Akko: classified_keep; keep=170 skip=9 failed=2
+[14:56:24] Classifying Aklan (453)
+[14:56:29] Classified Aklan: classified_keep; keep=171 skip=9 failed=2
+[14:56:29] Classifying Aklera (455)
+[14:56:33] Classified Aklera: classified_keep; keep=172 skip=9 failed=2
+[14:56:33] Classifying Ako (456)
+[14:56:39] Classified Ako: classified_keep; keep=173 skip=9 failed=2
+[14:56:39] Classifying Akron (459)
+[14:56:42] Classified Akron: classified_keep; keep=174 skip=9 failed=2
+[14:56:42] Classifying Akrotiri (460)
+[14:56:46] Classified Akrotiri: classified_keep; keep=175 skip=9 failed=2
+[14:56:46] Classifying Aksa (461)
+[14:56:53] Classified Aksa: classified_keep; keep=176 skip=9 failed=2
+[14:56:53] Classifying Aksaray (462)
+[14:56:58] Classified Aksaray: classified_keep; keep=177 skip=9 failed=2
+[14:56:58] Classifying Axum (466)
+[14:57:01] Classified Axum: classified_keep; keep=178 skip=9 failed=2
+[14:57:01] Classifying Aksu-Zhabagly (467)
+[14:57:06] Classified Aksu-Zhabagly: classified_keep; keep=179 skip=9 failed=2
+[14:57:06] Classifying Aktau (469)
+[14:57:10] Classified Aktau: classified_keep; keep=180 skip=9 failed=2
+[14:57:10] Classifying Aktobe (470)
+[14:57:15] Classified Aktobe: classified_keep; keep=181 skip=9 failed=2
+[14:57:15] Classifying Akumal (471)
+[14:57:18] Classified Akumal: classified_keep; keep=182 skip=9 failed=2
+[14:57:18] Classifying Akureyri (472)
+[14:57:22] Classified Akureyri: classified_keep; keep=183 skip=9 failed=2
+[14:57:22] Classifying Akyaka (474)
+[14:57:26] Classified Akyaka: classified_keep; keep=184 skip=9 failed=2
+[14:57:26] Classifying Alabama (480)
+[14:57:31] Classified Alabama: classified_keep; keep=185 skip=9 failed=2
+[14:57:31] Classifying Alaçatı (483)
+[14:57:34] Classified Alaçatı: classified_keep; keep=186 skip=9 failed=2
+[14:57:34] Classifying Aladdin (487)
+[14:57:44] Classified Aladdin: classified_keep; keep=187 skip=9 failed=2
+[14:57:44] Classifying Alagoas (488)
+[14:57:49] Classified Alagoas: classified_keep; keep=188 skip=9 failed=2
+[14:57:49] Classifying Alaigne (489)
+[14:57:54] Classified Alaigne: classified_keep; keep=189 skip=9 failed=2
+[14:57:54] Classifying Al Ain (491)
+[14:57:57] Classified Al Ain: classified_keep; keep=190 skip=9 failed=2
+[14:57:57] Classifying Alajuela (493)
+[14:58:03] Classified Alajuela: classified_keep; keep=191 skip=9 failed=2
+[14:58:03] Classifying Ala Kahakai Kaloko-Honokohau Trail (494)
+[14:58:09] Classified Ala Kahakai Kaloko-Honokohau Trail: classified_skip; keep=191 skip=10 failed=2
+[14:58:09] Classifying Ala Kahakai National Historic Trail (496)
+[14:58:17] Classified Ala Kahakai National Historic Trail: classified_skip; keep=191 skip=11 failed=2
+[14:58:17] Classifying Alameda (497)
+[14:58:20] Classified Alameda: classified_keep; keep=192 skip=11 failed=2
+[14:58:20] Classifying Alamogordo (503)
+[14:58:24] Classified Alamogordo: classified_keep; keep=193 skip=11 failed=2
+[14:58:24] Classifying Álamos (504)
+[14:58:27] Classified Álamos: classified_keep; keep=194 skip=11 failed=2
+[14:58:27] Classifying Alamosa (505)
+[14:58:31] Classified Alamosa: classified_keep; keep=195 skip=11 failed=2
+[14:58:31] Classifying Alampur (Telangana) (507)
+[14:58:35] Classified Alampur (Telangana): classified_keep; keep=196 skip=11 failed=2
+[14:58:35] Classifying Alang (513)
+[14:58:42] Classified Alang: classified_keep; keep=197 skip=11 failed=2
+[14:58:42] Classifying Alanya (515)
+[14:58:45] Classified Alanya: classified_keep; keep=198 skip=11 failed=2
+[14:58:45] Classifying Alappuzha (516)
+[14:58:49] Classified Alappuzha: classified_keep; keep=199 skip=11 failed=2
+[14:58:49] Classifying Alaska (520)
+[14:58:53] Classified Alaska: classified_keep; keep=200 skip=11 failed=2
+[14:58:53] Classifying Alaska Highway (521)
+[14:58:56] Classified Alaska Highway: classified_skip; keep=200 skip=12 failed=2
+[14:58:56] Classifying Alas Purwo National Park (522)
+[14:59:02] Classified Alas Purwo National Park: classified_keep; keep=201 skip=12 failed=2
+[14:59:02] Classifying Alausi (523)
+[14:59:06] Classified Alausi: classified_keep; keep=202 skip=12 failed=2
+[14:59:06] Classifying Alaverdi (525)
+[14:59:11] Classified Alaverdi: classified_keep; keep=203 skip=12 failed=2
+[14:59:11] Classifying Alba (530)
+[14:59:15] Classified Alba: classified_keep; keep=204 skip=12 failed=2
+[14:59:15] Classifying Alba County (535)
+[14:59:18] Classified Alba County: classified_keep; keep=205 skip=12 failed=2
+[14:59:18] Classifying Alba Iulia (536)
+[14:59:22] Classified Alba Iulia: classified_keep; keep=206 skip=12 failed=2
+[14:59:22] Classifying Albania (537)
+[14:59:25] Classified Albania: classified_keep; keep=207 skip=12 failed=2
+[14:59:25] Classifying Prokletije (540)
+[14:59:29] Classified Prokletije: classified_keep; keep=208 skip=12 failed=2
+[14:59:29] Classifying Albanian phrasebook (541)
+[14:59:34] Classify failed Albanian phrasebook: staging psql failed: ERROR:  new row for relation "destination_classification" violates check constraint "destination_classification_backpacker_relevance_score_check"
+DETAIL:  Failing row contains (10d031a9-acf6-4645-8fc4-12311eaf4eab, d94f5eea-1fb1-46f8-b95a-cc5acf93ac36, travel_topic, low, 0, skip, f, Phrasebook page, not a destination, Title and content indicate it is a phrasebook, not a travel plac..., 10, 2026-06-01 21:59:34.325729+00, 2026-06-01 21:59:34.325729+00).
+[14:59:34] Classifying Albanian Riviera (543)
+[14:59:39] Classified Albanian Riviera: classified_keep; keep=209 skip=12 failed=3
+[14:59:39] Classifying Albany (California) (546)
+[14:59:43] Classified Albany (California): classified_keep; keep=210 skip=12 failed=3
+[14:59:43] Classifying Albany (Georgia) (548)
+[14:59:47] Classified Albany (Georgia): classified_keep; keep=211 skip=12 failed=3
+[14:59:47] Classifying Albany (New York) (549)
+[14:59:52] Classified Albany (New York): classified_keep; keep=212 skip=12 failed=3
+[14:59:52] Classifying Albany (Oregon) (550)
+[14:59:56] Classified Albany (Oregon): classified_keep; keep=213 skip=12 failed=3
+[14:59:56] Classifying Albany (Western Australia) (552)
+[15:00:00] Classified Albany (Western Australia): classified_keep; keep=214 skip=12 failed=3
+[15:00:00] Classifying Albay (558)
+[15:00:05] Classified Albay: classified_keep; keep=215 skip=12 failed=3
+[15:00:05] Classifying Alberobello (559)
+[15:00:08] Classified Alberobello: classified_keep; keep=216 skip=12 failed=3
+[15:00:08] Classifying Albert (561)
+[15:00:15] Classified Albert: classified_keep; keep=217 skip=12 failed=3
+[15:00:15] Classifying Alberta (562)
+[15:00:20] Classified Alberta: classified_keep; keep=218 skip=12 failed=3
+[15:00:20] Classifying Alberta Rockies (566)
+[15:00:24] Classified Alberta Rockies: classified_keep; keep=219 skip=12 failed=3
+[15:00:24] Classifying Albert Lea (567)
+[15:00:30] Classified Albert Lea: classified_keep; keep=220 skip=12 failed=3
+[15:00:30] Classifying Albia (569)
+[15:00:36] Classified Albia: classified_keep; keep=221 skip=12 failed=3
+[15:00:36] Classifying Albion (California) (571)
+[15:00:41] Classified Albion (California): classified_keep; keep=222 skip=12 failed=3
+[15:00:41] Classifying Alblasserwaard-Drechtsteden (573)
+[15:00:47] Classified Alblasserwaard-Drechtsteden: classified_keep; keep=223 skip=12 failed=3
+[15:00:47] Classifying Albufeira (575)
+[15:00:50] Classified Albufeira: classified_keep; keep=224 skip=12 failed=3
+[15:00:50] Classifying Albuquerque (577)
+[15:00:54] Classified Albuquerque: classified_keep; keep=225 skip=12 failed=3
+[15:00:54] Classifying Albury-Wodonga (579)
+[15:00:58] Classified Albury-Wodonga: classified_keep; keep=226 skip=12 failed=3
+[15:00:58] Classifying Alès (581)
+[15:01:03] Classified Alès: classified_keep; keep=227 skip=12 failed=3
+[15:01:03] Classifying Alcala de los Gazules (583)
+[15:01:06] Classified Alcala de los Gazules: classified_keep; keep=228 skip=12 failed=3
+[15:01:06] Classifying Alcalá de Henares (584)
+[15:01:10] Classified Alcalá de Henares: classified_keep; keep=229 skip=12 failed=3
+[15:01:10] Classifying Alcamo (585)
+[15:01:13] Classified Alcamo: classified_keep; keep=230 skip=12 failed=3
+[15:01:13] Classifying Alcântara (588)
+[15:01:17] Classified Alcântara: classified_keep; keep=231 skip=12 failed=3
+[15:01:17] Classifying Alchi (589)
+[15:01:21] Classified Alchi: classified_keep; keep=232 skip=12 failed=3
+[15:01:21] Classifying Alcobaça (590)
+[15:01:26] Classified Alcobaça: classified_keep; keep=233 skip=12 failed=3
+[15:01:26] Classifying Alcoy (593)
+[15:01:33] Classified Alcoy: classified_keep; keep=234 skip=12 failed=3
+[15:01:33] Classifying Alcúdia (594)
+[15:01:36] Classified Alcúdia: classified_keep; keep=235 skip=12 failed=3
+[15:01:36] Classifying Aldeburgh (595)
+[15:01:40] Classified Aldeburgh: classified_keep; keep=236 skip=12 failed=3
+[15:01:40] Classifying Alderney (597)
+[15:01:44] Classified Alderney: classified_keep; keep=237 skip=12 failed=3
+[15:01:44] Classifying Aldershot (598)
+[15:01:50] Classified Aldershot: classified_keep; keep=238 skip=12 failed=3
+[15:01:50] Classifying Al Diwaniyah (599)
+[15:01:54] Classified Al Diwaniyah: classified_keep; keep=239 skip=12 failed=3
+[15:01:54] Classifying Alegría (El Salvador) (602)
+[15:01:59] Classified Alegría (El Salvador): classified_keep; keep=240 skip=12 failed=3
+[15:01:59] Classifying Alençon (605)
+[15:02:03] Classified Alençon: classified_keep; keep=241 skip=12 failed=3
+[15:02:03] Classifying Alentejo (608)
+[15:02:07] Classified Alentejo: classified_keep; keep=242 skip=12 failed=3
+[15:02:07] Classifying Aleppo (610)
+[15:02:12] Classified Aleppo: classified_keep; keep=243 skip=12 failed=3
+[15:02:12] Classifying Alessandria (613)
+[15:02:18] Classified Alessandria: classified_keep; keep=244 skip=12 failed=3
+[15:02:18] Classifying Aletai (616)
+[15:02:22] Classified Aletai: classified_keep; keep=245 skip=12 failed=3
+[15:02:22] Classifying Aleutian Islands (617)
+[15:02:27] Classified Aleutian Islands: classified_keep; keep=246 skip=12 failed=3
+[15:02:27] Classifying Alexander (618)
+[15:02:33] Classified Alexander: classified_keep; keep=247 skip=12 failed=3
+[15:02:33] Classifying Alexander Bay (619)
+[15:02:37] Classified Alexander Bay: classified_keep; keep=248 skip=12 failed=3
+[15:02:37] Classifying Alexandra (New Zealand) (620)
+[15:02:41] Classified Alexandra (New Zealand): classified_keep; keep=249 skip=12 failed=3
+[15:02:41] Classifying Alexandria (622)
+[15:02:46] Classified Alexandria: classified_keep; keep=250 skip=12 failed=3
+[15:02:46] Classifying Alexandria (Louisiana) (626)
+[15:02:49] Classified Alexandria (Louisiana): classified_keep; keep=251 skip=12 failed=3
+[15:02:49] Classifying Alexandria (Minnesota) (627)
+[15:02:55] Classified Alexandria (Minnesota): classified_keep; keep=252 skip=12 failed=3
+[15:02:55] Classifying Alexandria (Virginia) (630)
+[15:02:58] Classified Alexandria (Virginia): classified_keep; keep=253 skip=12 failed=3
+[15:02:58] Classifying Alexandria Bay (631)
+[15:03:03] Classified Alexandria Bay: classified_keep; keep=254 skip=12 failed=3
+[15:03:03] Classifying Alexandroupolis (636)
+[15:03:07] Classified Alexandroupolis: classified_keep; keep=255 skip=12 failed=3
+[15:03:07] Classifying Alexandrov (637)
+[15:03:14] Classified Alexandrov: classified_keep; keep=256 skip=12 failed=3
+[15:03:14] Classifying Alexandrovsk-Sakhalinsky (638)
+[15:03:19] Classified Alexandrovsk-Sakhalinsky: classified_keep; keep=257 skip=12 failed=3
+[15:03:19] Classifying Alfred (Maine) (641)
+[15:03:24] Classified Alfred (Maine): classified_keep; keep=258 skip=12 failed=3
+[15:03:24] Classifying Algarve (645)
+[15:03:27] Classified Algarve: classified_keep; keep=259 skip=12 failed=3
+[15:03:27] Classifying Algeciras (646)
+[15:03:32] Classified Algeciras: classified_keep; keep=260 skip=12 failed=3
+[15:03:32] Classifying Algeria (649)
+[15:03:37] Classified Algeria: classified_keep; keep=261 skip=12 failed=3
+[15:03:37] Classifying Alghero (650)
+[15:03:42] Classified Alghero: classified_keep; keep=262 skip=12 failed=3
+[15:03:42] Classifying Algiers (651)
+[15:03:45] Classified Algiers: classified_keep; keep=263 skip=12 failed=3
+[15:03:45] Classifying Algona (656)
+[15:03:51] Classified Algona: classified_keep; keep=264 skip=12 failed=3
+[15:03:51] Classifying Algonquin Provincial Park (658)
+[15:03:55] Classified Algonquin Provincial Park: classified_keep; keep=265 skip=12 failed=3
+[15:03:55] Classifying Alhama de Granada (660)
+[15:03:59] Classified Alhama de Granada: classified_keep; keep=266 skip=12 failed=3
+[15:03:59] Classifying Alhambra (California) (662)
+[15:04:05] Classified Alhambra (California): classified_keep; keep=267 skip=12 failed=3
+[15:04:05] Classifying Al Hudayda (664)
+[15:04:11] Classified Al Hudayda: classified_keep; keep=268 skip=12 failed=3
+[15:04:11] Classifying Alibag (667)
+[15:04:19] Classified Alibag: classified_keep; keep=269 skip=12 failed=3
+[15:04:19] Classifying Alicante (669)
+[15:04:23] Classified Alicante: classified_keep; keep=270 skip=12 failed=3
+[15:04:23] Classifying Alice (North Dakota) (674)
+[15:04:28] Classified Alice (North Dakota): classified_keep; keep=271 skip=12 failed=3
+[15:04:28] Classifying Alice (Texas) (675)
+[15:04:32] Classified Alice (Texas): classified_keep; keep=272 skip=12 failed=3
+[15:04:32] Classifying Alice Springs (676)
+[15:04:36] Classified Alice Springs: classified_keep; keep=273 skip=12 failed=3
+[15:04:36] Classifying Aligarh (679)
+[15:04:40] Classified Aligarh: classified_keep; keep=274 skip=12 failed=3
+[15:04:40] Classifying Alingsås (684)
+[15:04:44] Classified Alingsås: classified_keep; keep=275 skip=12 failed=3
+[15:04:44] Classifying Alishan (686)
+[15:04:49] Classified Alishan: classified_keep; keep=276 skip=12 failed=3
+[15:04:49] Classifying Aliso Viejo (687)
+[15:04:53] Classified Aliso Viejo: classified_keep; keep=277 skip=12 failed=3
+[15:04:53] Classifying Aliwal North (688)
+[15:04:58] Classified Aliwal North: classified_keep; keep=278 skip=12 failed=3
+[15:04:58] Classifying Alix (689)
+[15:05:03] Classified Alix: classified_keep; keep=279 skip=12 failed=3
+[15:05:03] Classifying Northwestern Iraq (690)
+[15:05:06] Classified Northwestern Iraq: classified_keep; keep=280 skip=12 failed=3
+[15:05:06] Classifying Al Khor (696)
+[15:05:10] Classified Al Khor: classified_keep; keep=281 skip=12 failed=3
+[15:05:10] Classifying Alkmaar (697)
+[15:05:17] Classified Alkmaar: classified_keep; keep=282 skip=12 failed=3
+[15:05:17] Classifying Prayagraj (698)
+[15:05:23] Classified Prayagraj: classified_keep; keep=283 skip=12 failed=3
+[15:05:23] Classifying Allamuchy (700)
+[15:05:27] Classified Allamuchy: classified_keep; keep=284 skip=12 failed=3
+[15:05:27] Classifying Allegan (701)
+[15:05:33] Classified Allegan: classified_keep; keep=285 skip=12 failed=3
+[15:05:33] Classifying Allegany County (Maryland) (704)
+[15:05:37] Classified Allegany County (Maryland): classified_keep; keep=286 skip=12 failed=3
+[15:05:37] Classifying Allegany County (New York) (705)
+[15:05:42] Classified Allegany County (New York): classified_keep; keep=287 skip=12 failed=3
+[15:05:42] Classifying Alleghenies and Susquehanna Valley (706)
+[15:05:47] Classified Alleghenies and Susquehanna Valley: classified_keep; keep=288 skip=12 failed=3
+[15:05:47] Classifying Allegheny County (707)
+[15:05:52] Classified Allegheny County: classified_keep; keep=289 skip=12 failed=3
+[15:05:52] Classifying Allen Park (709)
+[15:05:57] Classified Allen Park: classified_keep; keep=290 skip=12 failed=3
+[15:05:57] Classifying Allentown (711)
+[15:06:02] Classified Allentown: classified_keep; keep=291 skip=12 failed=3
+[15:06:02] Classifying Allentown (New Jersey) (713)
+[15:06:07] Classified Allentown (New Jersey): classified_keep; keep=292 skip=12 failed=3
+[15:06:07] Classifying Allgäu (717)
+[15:06:12] Classified Allgäu: classified_keep; keep=293 skip=12 failed=3
+[15:06:12] Classifying Alliance (Ohio) (719)
+[15:06:16] Classified Alliance (Ohio): classified_keep; keep=294 skip=12 failed=3
+[15:06:16] Classifying Allinge-Sandvig (720)
+[15:06:19] Classified Allinge-Sandvig: classified_keep; keep=295 skip=12 failed=3
+[15:06:19] Classifying Grande Salvador (723)
+[15:06:28] Classified Grande Salvador: classified_keep; keep=296 skip=12 failed=3
+[15:06:28] Classifying Allyn (725)
+[15:06:32] Classified Allyn: classified_keep; keep=297 skip=12 failed=3
+[15:06:32] Classifying Alma (727)
+[15:06:35] Classified Alma: classified_keep; keep=298 skip=12 failed=3
+[15:06:35] Classifying Alma (Arkansas) (728)
+[15:06:40] Classified Alma (Arkansas): classified_keep; keep=299 skip=12 failed=3
+[15:06:40] Classifying Almada (732)
+[15:06:45] Classified Almada: classified_keep; keep=300 skip=12 failed=3
+[15:06:45] Classifying Almaty (735)
+[15:06:49] Classified Almaty: classified_keep; keep=301 skip=12 failed=3
+[15:06:49] Classifying Almaty Province (736)
+[15:06:55] Classified Almaty Province: classified_keep; keep=302 skip=12 failed=3
+[15:06:55] Classifying Almàssera (737)
+[15:06:59] Classified Almàssera: classified_keep; keep=303 skip=12 failed=3
+[15:06:59] Classifying Almere (740)
+[15:07:04] Classified Almere: classified_keep; keep=304 skip=12 failed=3
+[15:07:04] Classifying Almería (741)
+[15:07:07] Classified Almería: classified_keep; keep=305 skip=12 failed=3
+[15:07:07] Classifying Almería (province) (742)
+[15:07:12] Classified Almería (province): classified_keep; keep=306 skip=12 failed=3
+[15:07:12] Classifying Almolonga (746)
+[15:07:16] Classified Almolonga: classified_keep; keep=307 skip=12 failed=3
+[15:07:16] Classifying Almonaster la Real (747)
+[15:07:22] Classified Almonaster la Real: classified_keep; keep=308 skip=12 failed=3
+[15:07:22] Classifying Almonte (Ontario) (752)
+[15:07:27] Classified Almonte (Ontario): classified_keep; keep=309 skip=12 failed=3
+[15:07:27] Classifying Almora (755)
+[15:07:31] Classified Almora: classified_keep; keep=310 skip=12 failed=3
+[15:07:31] Classifying Mukalla (756)
+[15:07:36] Classified Mukalla: classified_keep; keep=311 skip=12 failed=3
+[15:07:36] Classifying Almuñécar (757)
+[15:07:41] Classified Almuñécar: classified_keep; keep=312 skip=12 failed=3
+[15:07:41] Classifying Almyros (758)
+[15:07:45] Classified Almyros: classified_keep; keep=313 skip=12 failed=3
+[15:07:45] Classifying Alnmouth (760)
+[15:07:48] Classified Alnmouth: classified_keep; keep=314 skip=12 failed=3
+[15:07:48] Classifying Alnwick (761)
+[15:07:53] Classified Alnwick: classified_keep; keep=315 skip=12 failed=3
+[15:07:53] Classifying Aloha (764)
+[15:07:57] Classified Aloha: classified_keep; keep=316 skip=12 failed=3
+[15:07:57] Classifying Along the Troad Coast (770)
+[15:08:03] Classified Along the Troad Coast: classified_skip; keep=316 skip=13 failed=3
+[15:08:03] Classifying Along the Yangtze River (772)
+[15:08:10] Classified Along the Yangtze River: classified_skip; keep=316 skip=14 failed=3
+[15:08:10] Classifying Along the Yellow River (774)
+[15:08:14] Classified Along the Yellow River: classified_skip; keep=316 skip=15 failed=3
+[15:08:14] Classifying Alonissos (777)
+[15:08:19] Classified Alonissos: classified_keep; keep=317 skip=15 failed=3
+[15:08:19] Classifying Alor Archipelago (781)
+[15:08:24] Classified Alor Archipelago: classified_keep; keep=318 skip=15 failed=3
+[15:08:24] Classifying Alor Setar (783)
+[15:08:28] Classified Alor Setar: classified_keep; keep=319 skip=15 failed=3
+[15:08:28] Classifying Alotau (784)
+[15:08:33] Classified Alotau: classified_keep; keep=320 skip=15 failed=3
+[15:08:33] Classifying Alpe d'Huez (787)
+[15:08:37] Classified Alpe d'Huez: classified_keep; keep=321 skip=15 failed=3
+[15:08:37] Classifying Alpena (Michigan) (788)
+[15:08:42] Classified Alpena (Michigan): classified_keep; keep=322 skip=15 failed=3
+[15:08:42] Classifying Alpes-de-Haute-Provence (791)
+[15:08:48] Classified Alpes-de-Haute-Provence: classified_keep; keep=323 skip=15 failed=3
+[15:08:48] Classifying Alpes-Maritimes (794)
+[15:08:53] Classified Alpes-Maritimes: classified_keep; keep=324 skip=15 failed=3
+[15:08:53] Classifying Alpharetta (796)
+[15:08:58] Classified Alpharetta: classified_keep; keep=325 skip=15 failed=3
+[15:08:58] Classifying Alphen aan den Rijn (797)
+[15:09:05] Classified Alphen aan den Rijn: classified_keep; keep=326 skip=15 failed=3
+[15:09:05] Classifying Alpine (Texas) (800)
+[15:09:09] Classified Alpine (Texas): classified_keep; keep=327 skip=15 failed=3
+[15:09:09] Classifying Alpine (Wyoming) (801)
+[15:09:13] Classified Alpine (Wyoming): classified_keep; keep=328 skip=15 failed=3
+[15:09:13] Classifying Alpine County (802)
+[15:09:20] Classified Alpine County: classified_keep; keep=329 skip=15 failed=3
+[15:09:20] Classifying Skiing and snowboarding (804)
+[15:09:24] Classify failed Skiing and snowboarding: staging psql failed: ERROR:  new row for relation "destination_classification" violates check constraint "destination_classification_backpacker_relevance_score_check"
+DETAIL:  Failing row contains (7d51f02f-db06-41f9-9042-8fa3295ba018, 93c751a1-f953-407a-8bae-efef6dddac8c, travel_topic, low, 0, topic_only, f, Article is a general travel topic about skiing and snowboarding,..., Title and sections cover activity advice, not a place., 10, 2026-06-01 22:09:24.49456+00, 2026-06-01 22:09:24.49456+00).
+[15:09:24] Classifying Alps (807)
+[15:09:30] Classified Alps: classified_skip; keep=329 skip=16 failed=4
+[15:09:30] Classifying Alquezar (812)
+[15:09:35] Classified Alquezar: classified_keep; keep=330 skip=16 failed=4
+[15:09:35] Classifying Alresford (Hampshire) (815)
+[15:09:40] Classified Alresford (Hampshire): classified_keep; keep=331 skip=16 failed=4
+[15:09:40] Classifying Alsace (818)
+[15:09:45] Classified Alsace: classified_keep; keep=332 skip=16 failed=4
+[15:09:45] Classifying Alsatian Vineyard Route (820)
+[15:09:49] Classified Alsatian Vineyard Route: classified_skip; keep=332 skip=17 failed=4
+[15:09:49] Classifying Alsen (821)
+[15:09:53] Classified Alsen: classified_keep; keep=333 skip=17 failed=4
+[15:09:53] Classifying Alston (823)
+[15:10:00] Classified Alston: classified_keep; keep=334 skip=17 failed=4
+[15:10:00] Classifying Alta (825)
+[15:10:03] Classified Alta: classified_keep; keep=335 skip=17 failed=4
+[15:10:03] Classifying Alta (Utah) (827)
+[15:10:07] Classified Alta (Utah): classified_keep; keep=336 skip=17 failed=4
+[15:10:07] Classifying Altai (Kazakhstan) (831)
+[15:10:12] Classified Altai (Kazakhstan): classified_keep; keep=337 skip=17 failed=4
+[15:10:12] Classifying Altai (Mongolia) (833)
+[15:10:16] Classified Altai (Mongolia): classified_keep; keep=338 skip=17 failed=4
+[15:10:16] Classifying Altai Krai (836)
+[15:10:20] Classified Altai Krai: classified_keep; keep=339 skip=17 failed=4
+[15:10:20] Classifying Altai Republic (837)
+[15:10:24] Classified Altai Republic: classified_keep; keep=340 skip=17 failed=4
+[15:10:24] Classifying Altai Tavan Bogd National Park (838)
+[15:10:31] Classified Altai Tavan Bogd National Park: classified_keep; keep=341 skip=17 failed=4
+[15:10:31] Classifying Altamonte Springs (840)
+[15:10:38] Classified Altamonte Springs: classified_keep; keep=342 skip=17 failed=4
+[15:10:38] Classifying Altar Desert (844)
+[15:10:42] Classified Altar Desert: classified_keep; keep=343 skip=17 failed=4
+[15:10:42] Classifying Altavas (845)
+[15:10:48] Classified Altavas: classified_keep; keep=344 skip=17 failed=4
+[15:10:48] Classifying Alter do Chão (852)
+[15:10:53] Classified Alter do Chão: classified_keep; keep=345 skip=17 failed=4
+[15:10:53] Classifying Altin Depe (853)
+[15:10:58] Classified Altin Depe: classified_keep; keep=346 skip=17 failed=4
+[15:10:58] Classifying Altiplano (Bolivia) (856)
+[15:11:02] Classified Altiplano (Bolivia): classified_keep; keep=347 skip=17 failed=4
+[15:11:02] Classifying Altiplano (Peru) (857)
+[15:11:07] Classified Altiplano (Peru): classified_keep; keep=348 skip=17 failed=4
+[15:11:07] Classifying Altitude sickness (858)
+[15:11:10] Classified Altitude sickness: classified_skip; keep=348 skip=18 failed=4
+[15:11:10] Classifying Alton (Illinois) (860)
+[15:11:15] Classified Alton (Illinois): classified_keep; keep=349 skip=18 failed=4
+[15:11:15] Classifying Alton Towers (866)
+[15:11:20] Classified Alton Towers: classified_keep; keep=350 skip=18 failed=4
+[15:11:20] Classifying Altoona (Pennsylvania) (868)
+[15:11:25] Classified Altoona (Pennsylvania): classified_keep; keep=351 skip=18 failed=4
+[15:11:25] Classifying Altoona (Wisconsin) (869)
+[15:11:29] Classified Altoona (Wisconsin): classified_keep; keep=352 skip=18 failed=4
+[15:11:29] Classifying Alto Paraíso de Goiás (871)
+[15:11:34] Classified Alto Paraíso de Goiás: classified_keep; keep=353 skip=18 failed=4
+[15:11:34] Classifying Altrincham (876)
+[15:11:38] Classified Altrincham: classified_keep; keep=354 skip=18 failed=4
+[15:11:38] Classifying Altun Ha (877)
+[15:11:44] Classified Altun Ha: classified_keep; keep=355 skip=18 failed=4
+[15:11:44] Classifying Alturas (878)
+[15:11:49] Classified Alturas: classified_keep; keep=356 skip=18 failed=4
+[15:11:49] Classifying Altus (Arkansas) (880)
+[15:11:56] Classified Altus (Arkansas): classified_keep; keep=357 skip=18 failed=4
+[15:11:56] Classifying Altus (Oklahoma) (881)
+[15:12:00] Classified Altus (Oklahoma): classified_keep; keep=358 skip=18 failed=4
+[15:12:00] Classifying Alupka (882)
+[15:12:04] Classified Alupka: classified_keep; keep=359 skip=18 failed=4
+[15:12:04] Classifying Alushta (884)
+[15:12:07] Classified Alushta: classified_keep; keep=360 skip=18 failed=4
+[15:12:07] Classifying Aluva (885)
+[15:12:12] Classified Aluva: classified_keep; keep=361 skip=18 failed=4
+[15:12:12] Classifying Alva (888)
+[15:12:19] Classified Alva: classified_keep; keep=362 skip=18 failed=4
+[15:12:19] Classifying Alvin (890)
+[15:12:22] Classified Alvin: classified_keep; keep=363 skip=18 failed=4
+[15:12:22] Classifying Alvor (891)
+[15:12:26] Classified Alvor: classified_keep; keep=364 skip=18 failed=4
+[15:12:26] Classifying Alwar (893)
+[15:12:30] Classified Alwar: classified_keep; keep=365 skip=18 failed=4
+[15:12:30] Classifying Alytus (898)
+[15:12:33] Classified Alytus: classified_keep; keep=366 skip=18 failed=4
+[15:12:33] Classifying Amacayacu National Park (899)
+[15:12:37] Classified Amacayacu National Park: classified_keep; keep=367 skip=18 failed=4
+[15:12:37] Classifying Amador County (900)
+[15:12:41] Classified Amador County: classified_keep; keep=368 skip=18 failed=4
+[15:12:41] Classifying Amagasaki (901)
+[15:12:45] Classified Amagasaki: classified_keep; keep=369 skip=18 failed=4
+[15:12:45] Classifying Amaicha del Valle (903)
+[15:12:49] Classified Amaicha del Valle: classified_keep; keep=370 skip=18 failed=4
+[15:12:49] Classifying Amakusa (904)
+[15:12:55] Classified Amakusa: classified_keep; keep=371 skip=18 failed=4
+[15:12:55] Classifying Amalfi (905)
+[15:12:59] Classified Amalfi: classified_keep; keep=372 skip=18 failed=4
+[15:12:59] Classifying Amalfi Coast (906)
+[15:13:03] Classified Amalfi Coast: classified_keep; keep=373 skip=18 failed=4
+[15:13:03] Classifying Amaliapolis (907)
+[15:13:09] Classified Amaliapolis: classified_keep; keep=374 skip=18 failed=4
+[15:13:09] Classifying Amami Islands (908)
+[15:13:16] Classified Amami Islands: classified_keep; keep=375 skip=18 failed=4
+[15:13:16] Classifying Amami Oshima (909)
+[15:13:21] Classified Amami Oshima: classified_keep; keep=376 skip=18 failed=4
+[15:13:21] Classifying Amana Colonies (910)
+[15:13:27] Classified Amana Colonies: classified_keep; keep=377 skip=18 failed=4
+[15:13:27] Classifying Amanohashidate (911)
+[15:13:30] Classified Amanohashidate: classified_keep; keep=378 skip=18 failed=4
+[15:13:30] Classifying Amanzimtoti (913)
+[15:13:34] Classified Amanzimtoti: classified_keep; keep=379 skip=18 failed=4
+[15:13:34] Classifying Amapá (915)
+[15:13:40] Classified Amapá: classified_keep; keep=380 skip=18 failed=4
+[15:13:40] Classifying Amarante (916)
+[15:13:46] Classified Amarante: classified_keep; keep=381 skip=18 failed=4
+[15:13:46] Classifying Amarillo (918)
+[15:13:50] Classified Amarillo: classified_keep; keep=382 skip=18 failed=4
+[15:13:50] Classifying Amarna (919)
+[15:13:55] Classified Amarna: classified_keep; keep=383 skip=18 failed=4
+[15:13:55] Classifying Amasra (920)
+[15:14:01] Classified Amasra: classified_keep; keep=384 skip=18 failed=4
+[15:14:01] Classifying Amasya (921)
+[15:14:04] Classified Amasya: classified_keep; keep=385 skip=18 failed=4
+[15:14:04] Classifying Amazônia National Park (922)
+[15:14:08] Classified Amazônia National Park: classified_keep; keep=386 skip=18 failed=4
+[15:14:08] Classifying Amazon (Ecuador) (924)
+[15:14:12] Classified Amazon (Ecuador): classified_keep; keep=387 skip=18 failed=4
+[15:14:12] Classifying Amazonas (Brazil) (926)
+[15:14:16] Classified Amazonas (Brazil): classified_keep; keep=388 skip=18 failed=4
+[15:14:16] Classifying Amazonas (Venezuela) (930)
+[15:14:20] Classified Amazonas (Venezuela): classified_keep; keep=389 skip=18 failed=4
+[15:14:20] Classifying Amazonia (931)
+[15:14:28] Classified Amazonia: classified_keep; keep=390 skip=18 failed=4
+[15:14:28] Classifying Amazonia (Colombia) (932)
+[15:14:33] Classified Amazonia (Colombia): classified_keep; keep=391 skip=18 failed=4
+[15:14:33] Classifying Ambaji (935)
+[15:14:37] Classified Ambaji: classified_keep; keep=392 skip=18 failed=4
+[15:14:37] Classifying Ambala (936)
+[15:14:41] Classified Ambala: classified_keep; keep=393 skip=18 failed=4
+[15:14:41] Classifying Ambala Division (937)
+[15:14:46] Classified Ambala Division: classified_keep; keep=394 skip=18 failed=4
+[15:14:46] Classifying Ambarawa (940)
+[15:14:50] Classified Ambarawa: classified_keep; keep=395 skip=18 failed=4
+[15:14:50] Classifying Ambato (941)
+[15:14:54] Classified Ambato: classified_keep; keep=396 skip=18 failed=4
+[15:14:54] Classifying Ambergris Caye (944)
+[15:14:58] Classified Ambergris Caye: classified_keep; keep=397 skip=18 failed=4
+[15:14:58] Classifying Amber Road (950)
+[15:15:02] Classified Amber Road: classified_skip; keep=397 skip=19 failed=4
+[15:15:02] Classifying Amble (951)
+[15:15:06] Classified Amble: classified_keep; keep=398 skip=19 failed=4
+[15:15:06] Classifying Ambleside (953)
+[15:15:11] Classified Ambleside: classified_keep; keep=399 skip=19 failed=4
+[15:15:11] Classifying Amboise (954)
+[15:15:16] Classified Amboise: classified_keep; keep=400 skip=19 failed=4
+[15:15:16] Classifying Amboli (955)
+[15:15:20] Classified Amboli: classified_keep; keep=401 skip=19 failed=4
+[15:15:20] Classifying Ambon (956)
+[15:15:25] Classified Ambon: classified_keep; keep=402 skip=19 failed=4
+[15:15:25] Classifying Amboseli National Park (960)
+[15:15:29] Classified Amboseli National Park: classified_keep; keep=403 skip=19 failed=4
+[15:15:29] Classifying Ambositra (961)
+[15:15:33] Classified Ambositra: classified_keep; keep=404 skip=19 failed=4
+[15:15:33] Classifying Amboy (962)
+[15:15:39] Classified Amboy: classified_keep; keep=405 skip=19 failed=4
+[15:15:39] Classifying Amdo Tibetan phrasebook (965)
+[15:15:44] Classify failed Amdo Tibetan phrasebook: staging psql failed: ERROR:  new row for relation "destination_classification" violates check constraint "destination_classification_backpacker_relevance_score_check"
+DETAIL:  Failing row contains (8f80783d-4f80-44ba-a534-b7da6922c830, 3cf9e20f-d91e-4d83-a0d3-017380a8cafd, other, special_interest, 0, skip, f, Phrasebook page: not a geographic travel destination; purely a l..., Title is 'Amdo Tibetan phrasebook'; sections are typical phraseb..., 9, 2026-06-01 22:15:43.966969+00, 2026-06-01 22:15:43.966969+00).
+[15:15:44] Classifying Amed (966)
+[15:15:48] Classified Amed: classified_keep; keep=406 skip=19 failed=5
+[15:15:48] Classifying Amedi (967)
+[15:15:53] Classified Amedi: classified_keep; keep=407 skip=19 failed=5
+[15:15:53] Classifying Ameland (968)
+[15:15:58] Classified Ameland: classified_keep; keep=408 skip=19 failed=5
+[15:15:58] Classifying Amelia Island (970)
+[15:16:02] Classified Amelia Island: classified_keep; keep=409 skip=19 failed=5
+[15:16:02] Classifying Amelinghausen (971)
+[15:16:06] Classified Amelinghausen: classified_keep; keep=410 skip=19 failed=5
+[15:16:06] Classifying Amenia (New York) (974)
+[15:16:11] Classified Amenia (New York): classified_keep; keep=411 skip=19 failed=5
+[15:16:11] Classifying English language varieties (979)
+[15:16:17] Classified English language varieties: classified_skip; keep=411 skip=20 failed=5
+[15:16:17] Classifying American Samoa (984)
+[15:16:21] Classified American Samoa: classified_keep; keep=412 skip=20 failed=5
+[15:16:21] Classifying Americans in Cuba (985)
+[15:16:24] Classified Americans in Cuba: classified_skip; keep=412 skip=21 failed=5
+[15:16:24] Classifying Amersfoort (987)
+[15:16:29] Classified Amersfoort: classified_keep; keep=413 skip=21 failed=5
+[15:16:29] Classifying Amersham (988)
+[15:16:34] Classified Amersham: classified_keep; keep=414 skip=21 failed=5
+[15:16:35] Classifying Ames (989)
+[15:16:39] Classified Ames: classified_keep; keep=415 skip=21 failed=5
+[15:16:39] Classifying Amesbury (Massachusetts) (991)
+[15:16:45] Classified Amesbury (Massachusetts): classified_keep; keep=416 skip=21 failed=5
+[15:16:45] Classifying Amharic phrasebook (994)
+[15:16:48] Classify failed Amharic phrasebook: staging psql failed: ERROR:  new row for relation "destination_classification" violates check constraint "destination_classification_backpacker_relevance_score_check"
+DETAIL:  Failing row contains (19d123d2-26dc-4109-9616-6c0df5052261, 7038bf5b-fbfc-4ee6-a687-ca3439ea0738, other, low, 0, skip, f, Phrasebook page, not a geographic travel destination, Title is 'Amharic phrasebook', content is language basics, 10, 2026-06-01 22:16:48.098451+00, 2026-06-01 22:16:48.098451+00).
+[15:16:48] Classifying Amherst (Massachusetts) (996)
+[15:16:52] Classified Amherst (Massachusetts): classified_keep; keep=417 skip=21 failed=6
+[15:16:52] Classifying Amherst (New Hampshire) (997)
+[15:16:56] Classified Amherst (New Hampshire): classified_keep; keep=418 skip=21 failed=6
+[15:16:56] Classifying Amherst (Nova Scotia) (998)
+[15:17:00] Classified Amherst (Nova Scotia): classified_keep; keep=419 skip=21 failed=6
+[15:17:00] Classifying Amherst (Ohio) (999)
+[15:17:04] Classified Amherst (Ohio): classified_keep; keep=420 skip=21 failed=6
+[15:17:04] Classifying Amherst (Virginia) (1000)
+[15:17:08] Classified Amherst (Virginia): classified_keep; keep=421 skip=21 failed=6
+[15:17:08] Classifying Amidon (1005)
+[15:17:16] Classified Amidon: classified_keep; keep=422 skip=21 failed=6
+[15:17:16] Classifying Amiens (1006)
+[15:17:19] Classified Amiens: classified_keep; keep=423 skip=21 failed=6
+[15:17:19] Classifying Amityville (1008)
+[15:17:23] Classified Amityville: classified_keep; keep=424 skip=21 failed=6
+[15:17:23] Classifying Amizmiz (1010)
+[15:17:27] Classified Amizmiz: classified_keep; keep=425 skip=21 failed=6
+[15:17:27] Classifying Amlapura (1012)
+[15:17:31] Classified Amlapura: classified_keep; keep=426 skip=21 failed=6
+[15:17:31] Classifying Amman (1013)
+[15:17:35] Classified Amman: classified_keep; keep=427 skip=21 failed=6
+[15:17:35] Classifying Ammoudia (1016)
+[15:17:40] Classified Ammoudia: classified_keep; keep=428 skip=21 failed=6
+[15:17:40] Classifying Amnat Charoen (1017)
+[15:17:45] Classified Amnat Charoen: classified_keep; keep=429 skip=21 failed=6
+[15:17:45] Classifying Amorgos (1020)
+[15:17:51] Classified Amorgos: classified_keep; keep=430 skip=21 failed=6
+[15:17:51] Classifying Ampana (1021)
+[15:17:56] Classified Ampana: classified_keep; keep=431 skip=21 failed=6
+[15:17:56] Classifying Amparo (1022)
+[15:18:01] Classified Amparo: classified_keep; keep=432 skip=21 failed=6
+[15:18:01] Classifying Amphawa (1025)
+[15:18:05] Classified Amphawa: classified_keep; keep=433 skip=21 failed=6
+[15:18:05] Classifying Amravati (1029)
+[15:18:09] Classified Amravati: classified_keep; keep=434 skip=21 failed=6
+[15:18:09] Classifying Amritsar (1032)
+[15:18:12] Classified Amritsar: classified_keep; keep=435 skip=21 failed=6
+[15:18:12] Classifying Amstelland (1033)
+[15:18:20] Classified Amstelland: classified_keep; keep=436 skip=21 failed=6
+[15:18:20] Classifying Amsterdam (1036)
+[15:18:26] Classified Amsterdam: classified_keep; keep=437 skip=21 failed=6
+[15:18:26] Classifying Amsterdam/Zuidoost (1038)
+[15:18:29] Classified Amsterdam/Zuidoost: classified_keep; keep=438 skip=21 failed=6
+[15:18:29] Classifying Amsterdam/Canal District (1040)
+[15:18:32] Classified Amsterdam/Canal District: classified_keep; keep=439 skip=21 failed=6
+[15:18:32] Classifying Amsterdam/Oost (1041)
+[15:18:36] Classified Amsterdam/Oost: classified_keep; keep=440 skip=21 failed=6
+[15:18:36] Classifying Amsterdam/Jordaan (1045)
+[15:18:41] Classified Amsterdam/Jordaan: classified_keep; keep=441 skip=21 failed=6
+[15:18:41] Classifying Amsterdam/Noord (1046)
+[15:18:45] Classified Amsterdam/Noord: classified_keep; keep=442 skip=21 failed=6
+[15:18:45] Classifying Amsterdam/Binnenstad (1049)
+[15:18:48] Classified Amsterdam/Binnenstad: classified_keep; keep=443 skip=21 failed=6
+[15:18:48] Classifying Amsterdam/Plantage (1051)
+[15:18:52] Classified Amsterdam/Plantage: classified_keep; keep=444 skip=21 failed=6
+[15:18:53] Classifying Amsterdam/Zuid (1052)
+[15:18:59] Classified Amsterdam/Zuid: classified_keep; keep=445 skip=21 failed=6
+[15:18:59] Classifying Amuntai (1063)
+[15:19:04] Classified Amuntai: classified_keep; keep=446 skip=21 failed=6
+[15:19:04] Classifying Amur Oblast (1065)
+[15:19:09] Classified Amur Oblast: classified_keep; keep=447 skip=21 failed=6
+[15:19:09] Classifying Anaco (1068)
+[15:19:14] Classified Anaco: classified_keep; keep=448 skip=21 failed=6
+[15:19:14] Classifying Anaconda (1070)
+[15:19:18] Classified Anaconda: classified_keep; keep=449 skip=21 failed=6
+[15:19:18] Classifying Anacortes (1071)
+[15:19:22] Classified Anacortes: classified_keep; keep=450 skip=21 failed=6
+[15:19:22] Classifying Anadarko (1074)
+[15:19:26] Classified Anadarko: classified_keep; keep=451 skip=21 failed=6
+[15:19:26] Classifying Anadyr (1075)
+[15:19:30] Classified Anadyr: classified_keep; keep=452 skip=21 failed=6
+[15:19:30] Classifying Anafi (1076)
+[15:19:34] Classified Anafi: classified_keep; keep=453 skip=21 failed=6
+[15:19:34] Classifying Anagni (1077)
+[15:19:39] Classified Anagni: classified_keep; keep=454 skip=21 failed=6
+[15:19:39] Classifying Anaheim (1078)
+[15:19:43] Classified Anaheim: classified_keep; keep=455 skip=21 failed=6
+[15:19:43] Classifying Anaheim Hills (1081)
+[15:19:48] Classified Anaheim Hills: classified_keep; keep=456 skip=21 failed=6
+[15:19:48] Classifying Anakao (1082)
+[15:19:52] Classified Anakao: classified_keep; keep=457 skip=21 failed=6
+[15:19:52] Classifying Anaktuvuk Pass (1083)
+[15:19:57] Classified Anaktuvuk Pass: classified_keep; keep=458 skip=21 failed=6
+[15:19:57] Classifying Anamoose (1084)
+[15:20:01] Classified Anamoose: classified_keep; keep=459 skip=21 failed=6
+[15:20:01] Classifying Anamur (1085)
+[15:20:05] Classified Anamur: classified_keep; keep=460 skip=21 failed=6
+[15:20:05] Classifying Anand (1086)
+[15:20:09] Classified Anand: classified_keep; keep=461 skip=21 failed=6
+[15:20:09] Classifying Anantapur (1087)
+[15:20:13] Classified Anantapur: classified_keep; keep=462 skip=21 failed=6
+[15:20:13] Classifying Anantnag (1088)
+[15:20:17] Classified Anantnag: classified_keep; keep=463 skip=21 failed=6
+[15:20:17] Classifying Anau (1090)
+[15:20:22] Classified Anau: classified_keep; keep=464 skip=21 failed=6
+[15:20:22] Classifying Anavilhanas (1092)
+[15:20:26] Classified Anavilhanas: classified_keep; keep=465 skip=21 failed=6
+[15:20:26] Classifying Anchorage (1096)
+[15:20:34] Classified Anchorage: classified_keep; keep=466 skip=21 failed=6
+[15:20:34] Classifying Anchor Point (1097)
+[15:20:39] Classified Anchor Point: classified_keep; keep=467 skip=21 failed=6
+[15:20:39] Classifying Ancona (1101)
+[15:20:43] Classified Ancona: classified_keep; keep=468 skip=21 failed=6
+[15:20:43] Classifying Ancona (province) (1102)
+[15:20:48] Classified Ancona (province): classified_keep; keep=469 skip=21 failed=6
+[15:20:48] Classifying Ancud (1103)
+[15:20:51] Classified Ancud: classified_keep; keep=470 skip=21 failed=6
+[15:20:51] Classifying Andahuaylas (1104)
+[15:20:57] Classified Andahuaylas: classified_keep; keep=471 skip=21 failed=6
+[15:20:57] Classifying Andahuaylillas (1105)
+[15:21:01] Classified Andahuaylillas: classified_keep; keep=472 skip=21 failed=6
+[15:21:01] Classifying Andalusia (1110)
+[15:21:05] Classified Andalusia: classified_keep; keep=473 skip=21 failed=6
+[15:21:05] Classifying Andaman and Nicobar Islands (1113)
+[15:21:10] Classified Andaman and Nicobar Islands: classified_keep; keep=474 skip=21 failed=6
+[15:21:10] Classifying Andean Highlands (Ecuador) (1121)
+[15:21:16] Classified Andean Highlands (Ecuador): classified_keep; keep=475 skip=21 failed=6
+[15:21:16] Classifying Andean Northwest (Argentina) (1122)
+[15:21:22] Classified Andean Northwest (Argentina): classified_keep; keep=476 skip=21 failed=6
+[15:21:22] Classifying Andechs (1123)
+[15:21:26] Classified Andechs: classified_keep; keep=477 skip=21 failed=6
+[15:21:26] Classifying Andermatt (1127)
+[15:21:29] Classified Andermatt: classified_keep; keep=478 skip=21 failed=6
+[15:21:29] Classifying Anderson (California) (1129)
+[15:21:34] Classified Anderson (California): classified_keep; keep=479 skip=21 failed=6
+[15:21:34] Classifying Anderson (Indiana) (1130)
+[15:21:38] Classified Anderson (Indiana): classified_keep; keep=480 skip=21 failed=6
+[15:21:38] Classifying Anderson (South Carolina) (1131)
+[15:21:43] Classified Anderson (South Carolina): classified_keep; keep=481 skip=21 failed=6
+[15:21:43] Classifying Andes (1132)
+[15:21:51] Classified Andes: classified_keep; keep=482 skip=21 failed=6
+[15:21:51] Classifying Andes (Venezuela) (1134)
+[15:21:54] Classified Andes (Venezuela): classified_keep; keep=483 skip=21 failed=6
+[15:21:54] Classifying Andhra Pradesh (1135)
+[15:21:58] Classified Andhra Pradesh: classified_keep; keep=484 skip=21 failed=6
+[15:21:58] Classifying Andijan (1137)
+[15:22:02] Classified Andijan: classified_keep; keep=485 skip=21 failed=6
+[15:22:02] Classifying Andino (1139)
+[15:22:12] Classified Andino: classified_keep; keep=486 skip=21 failed=6
+[15:22:12] Classifying Andong (1142)
+[15:22:18] Classified Andong: classified_keep; keep=487 skip=21 failed=6
+[15:22:18] Classifying Andorra (1143)
+[15:22:24] Classified Andorra: classified_keep; keep=488 skip=21 failed=6
+[15:22:24] Classifying Andorra la Vella (1144)
+[15:22:30] Classified Andorra la Vella: classified_keep; keep=489 skip=21 failed=6
+[15:22:30] Classifying Andover (Massachusetts) (1146)
+[15:22:33] Classified Andover (Massachusetts): classified_keep; keep=490 skip=21 failed=6
+[15:22:33] Classifying Andover (Maine) (1148)
+[15:22:38] Classified Andover (Maine): classified_keep; keep=491 skip=21 failed=6
+[15:22:38] Classifying Andringitra National Park (1150)
+[15:22:42] Classified Andringitra National Park: classified_keep; keep=492 skip=21 failed=6
+[15:22:42] Classifying Andros (1151)
+[15:22:48] Classified Andros: classified_keep; keep=493 skip=21 failed=6
+[15:22:48] Classifying Androscoggin County (1152)
+[15:22:54] Classified Androscoggin County: classified_keep; keep=494 skip=21 failed=6
+[15:22:54] Classifying Anegada (1153)
+[15:22:58] Classified Anegada: classified_keep; keep=495 skip=21 failed=6
+[15:22:58] Classifying Aner Dam Wildlife Sanctuary (1154)
+[15:23:02] Classified Aner Dam Wildlife Sanctuary: classified_keep; keep=496 skip=21 failed=6
+[15:23:02] Classifying Aneta (1155)
+[15:23:06] Classified Aneta: classified_keep; keep=497 skip=21 failed=6
+[15:23:06] Classifying Angarsk (1160)
+[15:23:13] Classified Angarsk: classified_keep; keep=498 skip=21 failed=6
+[15:23:13] Classifying Angeles (1161)
+[15:23:17] Classified Angeles: classified_keep; keep=499 skip=21 failed=6
+[15:23:17] Classifying Angeles National Forest (1164)
+[15:23:22] Classified Angeles National Forest: classified_keep; keep=500 skip=21 failed=6
+[15:23:22] Classifying Angel Fire (1167)
+[15:23:27] Classified Angel Fire: classified_keep; keep=501 skip=21 failed=6
+[15:23:27] Classifying Angels Camp (1170)
+[15:23:31] Classified Angels Camp: classified_keep; keep=502 skip=21 failed=6
+[15:23:31] Classifying Angers (1171)
+[15:23:35] Classified Angers: classified_keep; keep=503 skip=21 failed=6
+[15:23:35] Classifying Angkor Archaeological Park (1173)
+[15:23:40] Classified Angkor Archaeological Park: classified_keep; keep=504 skip=21 failed=6
+[15:23:40] Classifying Angle Inlet (1176)
+[15:23:45] Classified Angle Inlet: classified_keep; keep=505 skip=21 failed=6
+[15:23:45] Classifying Anglesey (1178)
+[15:23:51] Classified Anglesey: classified_keep; keep=506 skip=21 failed=6
+[15:23:51] Classifying Angola (1179)
+[15:23:57] Classified Angola: classified_keep; keep=507 skip=21 failed=6
+[15:23:57] Classifying Angola (Indiana) (1181)
+[15:24:02] Classified Angola (Indiana): classified_keep; keep=508 skip=21 failed=6
+[15:24:02] Classifying Angoori (1183)
+[15:24:06] Classified Angoori: classified_keep; keep=509 skip=21 failed=6
+[15:24:06] Classifying Angoulême (1185)
+[15:24:09] Classified Angoulême: classified_keep; keep=510 skip=21 failed=6
+[15:24:09] Classifying Angra dos Reis (1190)
+[15:24:15] Classified Angra dos Reis: classified_keep; keep=511 skip=21 failed=6
+[15:24:15] Classifying Ang Thong (1198)
+[15:24:20] Classified Ang Thong: classified_keep; keep=512 skip=21 failed=6
+[15:24:20] Classifying Ang Thong National Marine Park (1203)
+[15:24:24] Classified Ang Thong National Marine Park: classified_keep; keep=513 skip=21 failed=6
+[15:24:24] Classifying Anguilla (1205)
+[15:24:30] Classified Anguilla: classified_keep; keep=514 skip=21 failed=6
+[15:24:30] Classifying Angus (1206)
+[15:24:34] Classified Angus: classified_keep; keep=515 skip=21 failed=6
+[15:24:34] Classifying Anhui (1208)
+[15:24:41] Classified Anhui: classified_keep; keep=516 skip=21 failed=6
+[15:24:41] Classifying Ani (1209)
+[15:24:46] Classified Ani: classified_keep; keep=517 skip=21 failed=6
+[15:24:46] Classifying Aniak (1210)
+[15:24:50] Classified Aniak: classified_keep; keep=518 skip=21 failed=6
+[15:24:50] Classifying Anina (1212)
+[15:24:54] Classified Anina: classified_keep; keep=519 skip=21 failed=6
+[15:24:54] Classifying Anjouan (1216)
+[15:24:59] Classified Anjouan: classified_keep; keep=520 skip=21 failed=6
+[15:24:59] Classifying Anjuna (1217)
+[15:25:03] Classified Anjuna: classified_keep; keep=521 skip=21 failed=6
+[15:25:03] Classifying Ankapur (1218)
+[15:25:08] Classified Ankapur: classified_keep; keep=522 skip=21 failed=6
+[15:25:08] Classifying Ankara (1219)
+[15:25:12] Classified Ankara: classified_keep; keep=523 skip=21 failed=6
+[15:25:12] Classifying Ankeny (1220)
+[15:25:19] Classified Ankeny: classified_keep; keep=524 skip=21 failed=6
+[15:25:19] Classifying Ankola (1222)
+[15:25:23] Classified Ankola: classified_keep; keep=525 skip=21 failed=6
+[15:25:23] Classifying Anlong Veng (1223)
+[15:25:34] Classified Anlong Veng: classified_keep; keep=526 skip=21 failed=6
+[15:25:34] Classifying Annaba (1225)
+[15:25:39] Classified Annaba: classified_keep; keep=527 skip=21 failed=6
+[15:25:39] Classifying Anna Maria Island (1229)
+[15:25:44] Classified Anna Maria Island: classified_keep; keep=528 skip=21 failed=6
+[15:25:44] Classifying Annandale (Virginia) (1233)
+[15:25:49] Classified Annandale (Virginia): classified_keep; keep=529 skip=21 failed=6
+[15:25:49] Classifying Annapolis (1234)
+[15:25:54] Classified Annapolis: classified_keep; keep=530 skip=21 failed=6
+[15:25:54] Classifying Annapolis Valley (1237)
+[15:26:00] Classified Annapolis Valley: classified_keep; keep=531 skip=21 failed=6
+[15:26:00] Classifying Annapurna (1238)
+[15:26:05] Classified Annapurna: classified_keep; keep=532 skip=21 failed=6
+[15:26:05] Classifying Annapurna Circuit (1239)
+[15:26:09] Classified Annapurna Circuit: classified_skip; keep=532 skip=22 failed=6
+[15:26:09] Classifying Annapurna Sanctuary trek (1240)
+[15:26:17] Classified Annapurna Sanctuary trek: classified_skip; keep=532 skip=23 failed=6
+[15:26:17] Classifying Ann Arbor (1241)
+[15:26:23] Classified Ann Arbor: classified_keep; keep=533 skip=23 failed=6
+[15:26:23] Classifying Annavaram (1242)
+[15:26:27] Classified Annavaram: classified_keep; keep=534 skip=23 failed=6
+[15:26:27] Classifying Annecy (1244)
+[15:26:31] Classified Annecy: classified_keep; keep=535 skip=23 failed=6
+[15:26:31] Classifying Annemasse (1245)
+[15:26:37] Classified Annemasse: classified_keep; keep=536 skip=23 failed=6
+[15:26:37] Classifying Annobón (1247)
+[15:26:43] Classified Annobón: classified_keep; keep=537 skip=23 failed=6
+[15:26:43] Classifying Annot (1250)
+[15:26:46] Classified Annot: classified_keep; keep=538 skip=23 failed=6
+[15:26:46] Classifying Annur (1251)
+[15:26:50] Classified Annur: classified_keep; keep=539 skip=23 failed=6
+[15:26:50] Classifying Ansan (1257)
+[15:26:53] Classified Ansan: classified_keep; keep=540 skip=23 failed=6
+[15:26:53] Classifying Ansó (1259)
+[15:26:58] Classified Ansó: classified_keep; keep=541 skip=23 failed=6
+[15:26:58] Classifying Anshan (1261)
+[15:27:02] Classified Anshan: classified_keep; keep=542 skip=23 failed=6
+[15:27:02] Classifying Anshun (1262)
+[15:27:07] Classified Anshun: classified_keep; keep=543 skip=23 failed=6
+[15:27:07] Classifying Antakya (1266)
+[15:27:11] Classified Antakya: classified_keep; keep=544 skip=23 failed=6
+[15:27:11] Classifying Antalya (1267)
+[15:27:15] Classified Antalya: classified_keep; keep=545 skip=23 failed=6
+[15:27:15] Classifying Antananarivo (1269)
+[15:27:18] Classified Antananarivo: classified_keep; keep=546 skip=23 failed=6
+[15:27:18] Classifying Antananarivo Province (1270)
+[15:27:24] Classified Antananarivo Province: classified_keep; keep=547 skip=23 failed=6
+[15:27:24] Classifying Antarctic Peninsula (1273)
+[15:27:28] Classified Antarctic Peninsula: classified_keep; keep=548 skip=23 failed=6
+[15:27:28] Classifying Antelope Valley (1277)
+[15:27:32] Classified Antelope Valley: classified_keep; keep=549 skip=23 failed=6
+[15:27:32] Classifying Antequera (1279)
+[15:27:36] Classified Antequera: classified_keep; keep=550 skip=23 failed=6
+[15:27:36] Classifying Antequera Region (1280)
+[15:27:42] Classified Antequera Region: classified_keep; keep=551 skip=23 failed=6
+[15:27:42] Classifying Anthem (1281)
+[15:27:47] Classified Anthem: classified_keep; keep=552 skip=23 failed=6
+[15:27:47] Classifying Anti Atlas (1283)
+[15:27:50] Classified Anti Atlas: classified_keep; keep=553 skip=23 failed=6
+[15:27:50] Classifying Antibes (1284)
+[15:27:56] Classified Antibes: classified_keep; keep=554 skip=23 failed=6
+[15:27:56] Classifying Anticosti (1285)
+[15:28:00] Classified Anticosti: classified_keep; keep=555 skip=23 failed=6
+[15:28:00] Classifying Antigonish (1290)

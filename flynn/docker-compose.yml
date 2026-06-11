@@ -1,0 +1,83 @@
+services:
+  web:
+    build: .
+    image: backpacker-index-manager:latest
+    container_name: flynn-backpacker-index-manager
+    restart: unless-stopped
+    ports:
+      - "8497:8080"
+    # env_file is intentionally omitted; the dashboard manages runtime
+    # configuration (keys, lanes) at runtime. Add a .env file later if
+    # you need to inject env vars into the container at start.
+    environment:
+      # FILL_HOST/PORT are also in the Dockerfile but can be overridden here.
+      FILL_HOST: "0.0.0.0"
+      FILL_PORT: "8080"
+      BACKPACKER_SUPPORT_DIR: /var/lib/backpacker-index-manager
+      # Pin the state file and dispatch lock to the persistent volume
+      # so the dashboard and the worker subprocesses share the same
+      # file, and a container recreate doesn't lose history. Without
+      # this, state_path() falls back to ~/Library/... inside the
+      # container (gone on recreate) and the dashboard ends up
+      # reading from a different file than the worker writes to.
+      FILL_STATE_PATH: /var/lib/backpacker-index-manager/fill_state.jsonl
+      FILL_DISPATCH_LOCK: /var/lib/backpacker-index-manager/fill_dispatch.lock
+      # Staging site: the manager looks up article details on the staging
+      # site to build the link URL. The PUBLIC url is what the browser
+      # opens; the API url is where the manager itself calls for data.
+      STAGING_API_URL: "http://backpacker-index-web:8080"
+      STAGING_PUBLIC_URL: "http://flynn.local:8495"
+      # DB write: pipe SQL straight to the postgres container on
+      # the backpacker-index-staging_backpacker-net network. Joined
+      # via the networks: block below so the hostname resolves.
+      FILL_STAGING_PSQL: "psql -h backpacker-index-db -U backpacker -d backpacker_index -v ON_ERROR_STOP=1"
+      PGPASSWORD: "backpacker"
+      FILL_DB_WRITE_ENABLED: "1"
+      # Limit concurrent staging DB writers across lane subprocesses.
+      # High MiniMax worker counts are fine while LLM-bound, but cache
+      # hits can otherwise become dozens of simultaneous psql writers.
+      FILL_DB_WRITE_CONCURRENCY: "4"
+      FILL_PSQL_TIMEOUT_S: "120"
+      FILL_WORKER_START_INTERVAL_S: "2.0"
+      FILL_RETRY_BLOCK_COOLDOWN_S: "600"
+    volumes:
+      # Persistent state: lanes.json, api-keys.json, fill_state.jsonl,
+      # fill_dispatch.lock. Survives container recreation.
+      # NOTE: the named volume below is created as
+      # `<project-prefix>_backpacker-state` by docker compose. With the
+      # current deploy layout that resolves to
+      # `backpacker-index-manager_backpacker-state` (project name is
+      # taken from the compose-file parent dir). When doing ad-hoc data
+      # migrations on the Pi, use that full prefixed name, not the
+      # short `backpacker-state`.
+      - backpacker-state:/var/lib/backpacker-index-manager
+    healthcheck:
+      test: ["CMD", "curl", "-fsS", "http://127.0.0.1:8080/healthz"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 15s
+    labels:
+      flynn.managed: "true"
+      flynn.app.slug: "backpacker-index-manager"
+      flynn.app.name: "Backpacker Index Manager"
+      flynn.app.version: "0.1.0"
+      flynn.app.port: "8080"
+      flynn.app.ui_mode: "iframe"
+      flynn.app.icon: "map"
+    networks:
+      - flynn_mesh
+      - backpacker-db
+
+volumes:
+  backpacker-state:
+
+networks:
+  flynn_mesh:
+    external: true
+    name: flynn_mesh
+  # The staging postgres DB lives on this project-specific bridge. The
+  # manager joins it so the lane worker can write to the DB directly.
+  backpacker-db:
+    external: true
+    name: backpacker-index-staging_backpacker-net

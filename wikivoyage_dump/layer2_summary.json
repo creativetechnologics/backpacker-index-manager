@@ -1,0 +1,48 @@
+{
+  "layer1_remaining_in": 29496,
+  "layer1_filtered_in": 2136,
+  "llm_ready_total": 25899,
+  "llm_ready_by_status": {
+    "deterministic_canonical": 20559,
+    "deterministic_unresolved": 3981,
+    "untouched": 1359
+  },
+  "layer2_excluded_total": 3597,
+  "layer2_excluded_reasons": {
+    "deterministic_routing_role:hierarchy_node": 2794,
+    "deterministic_routing_role:attachable_resource": 699,
+    "deterministic_routing_role:supporting_topic": 102,
+    "residual_itinerary_title": 2
+  },
+  "layer2_excluded_role_breakdown": {
+    "hierarchy_node": 2794,
+    "attachable_resource": 699,
+    "supporting_topic": 102
+  },
+  "layer2_excluded_titles_sample": [
+    "Aba (prefecture)",
+    "Aberdare National Park",
+    "Abijatta Shalla Lakes National Park",
+    "Abitibi-Témiscamingue",
+    "Abkhazia",
+    "Abruzzo",
+    "Abu Dhabi (emirate)",
+    "Acadiana",
+    "Acadian Coast",
+    "Achterhoek",
+    "Acre (Brazil)",
+    "Adamaoua",
+    "Addo Elephant National Park",
+    "Aegean Turkey",
+    "Aeolian Islands",
+    "Agrigento (province)",
+    "Aguascalientes (state)",
+    "Ahal Province",
+    "Aichi",
+    "Ajmer Division"
+  ],
+  "outputs": {
+    "llm_ready": "/Users/gary/Programming/Backpacker Index/wikivoyage_dump/llm_ready_places.jsonl",
+    "excluded": "/Users/gary/Programming/Backpacker Index/wikivoyage_dump/layer2_excluded_non_places.jsonl"
+  }
+}

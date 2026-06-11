@@ -1,0 +1,1608 @@
+{
+    "success": true,
+    "data": {
+        "count": 200,
+        "countries": [
+            {
+                "code": "AF",
+                "name": "Afghanistan",
+                "slug": "afghanistan",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Asia"
+            },
+            {
+                "code": "AL",
+                "name": "Albania",
+                "slug": "albania",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Europe"
+            },
+            {
+                "code": "DZ",
+                "name": "Algeria",
+                "slug": "algeria",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Africa"
+            },
+            {
+                "code": "AD",
+                "name": "Andorra",
+                "slug": "andorra",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Europe"
+            },
+            {
+                "code": "AO",
+                "name": "Angola",
+                "slug": "angola",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Africa"
+            },
+            {
+                "code": "AG",
+                "name": "Antigua and Barbuda",
+                "slug": "antigua-and-barbuda",
+                "voltage": "230V",
+                "frequency": "60Hz",
+                "region": "Americas"
+            },
+            {
+                "code": "AR",
+                "name": "Argentina",
+                "slug": "argentina",
+                "voltage": "220V",
+                "frequency": "50Hz",
+                "region": "Americas"
+            },
+            {
+                "code": "AM",
+                "name": "Armenia",
+                "slug": "armenia",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Asia"
+            },
+            {
+                "code": "AU",
+                "name": "Australia",
+                "slug": "australia",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Oceania"
+            },
+            {
+                "code": "AT",
+                "name": "Austria",
+                "slug": "austria",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Europe"
+            },
+            {
+                "code": "AZ",
+                "name": "Azerbaijan",
+                "slug": "azerbaijan",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Asia"
+            },
+            {
+                "code": "BS",
+                "name": "Bahamas",
+                "slug": "bahamas",
+                "voltage": "120V",
+                "frequency": "60Hz",
+                "region": "Americas"
+            },
+            {
+                "code": "BH",
+                "name": "Bahrain",
+                "slug": "bahrain",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Asia"
+            },
+            {
+                "code": "BD",
+                "name": "Bangladesh",
+                "slug": "bangladesh",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Asia"
+            },
+            {
+                "code": "BB",
+                "name": "Barbados",
+                "slug": "barbados",
+                "voltage": "115V",
+                "frequency": "50Hz",
+                "region": "Americas"
+            },
+            {
+                "code": "BY",
+                "name": "Belarus",
+                "slug": "belarus",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Europe"
+            },
+            {
+                "code": "BE",
+                "name": "Belgium",
+                "slug": "belgium",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Europe"
+            },
+            {
+                "code": "BZ",
+                "name": "Belize",
+                "slug": "belize",
+                "voltage": "110V",
+                "frequency": "60Hz",
+                "region": "Americas"
+            },
+            {
+                "code": "BJ",
+                "name": "Benin",
+                "slug": "benin",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Africa"
+            },
+            {
+                "code": "BT",
+                "name": "Bhutan",
+                "slug": "bhutan",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Asia"
+            },
+            {
+                "code": "BO",
+                "name": "Bolivia",
+                "slug": "bolivia",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Americas"
+            },
+            {
+                "code": "BA",
+                "name": "Bosnia and Herzegovina",
+                "slug": "bosnia-and-herzegovina",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Europe"
+            },
+            {
+                "code": "BW",
+                "name": "Botswana",
+                "slug": "botswana",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Africa"
+            },
+            {
+                "code": "BR",
+                "name": "Brazil",
+                "slug": "brazil",
+                "voltage": "127V\/220V",
+                "frequency": "60Hz",
+                "region": "Americas"
+            },
+            {
+                "code": "BN",
+                "name": "Brunei",
+                "slug": "brunei",
+                "voltage": "240V",
+                "frequency": "50Hz",
+                "region": "Asia"
+            },
+            {
+                "code": "BG",
+                "name": "Bulgaria",
+                "slug": "bulgaria",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Europe"
+            },
+            {
+                "code": "BF",
+                "name": "Burkina Faso",
+                "slug": "burkina-faso",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Africa"
+            },
+            {
+                "code": "BI",
+                "name": "Burundi",
+                "slug": "burundi",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Africa"
+            },
+            {
+                "code": "KH",
+                "name": "Cambodia",
+                "slug": "cambodia",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Asia"
+            },
+            {
+                "code": "CM",
+                "name": "Cameroon",
+                "slug": "cameroon",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Africa"
+            },
+            {
+                "code": "CA",
+                "name": "Canada",
+                "slug": "canada",
+                "voltage": "120V",
+                "frequency": "60Hz",
+                "region": "Americas"
+            },
+            {
+                "code": "CV",
+                "name": "Cape Verde",
+                "slug": "cape-verde",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Africa"
+            },
+            {
+                "code": "CF",
+                "name": "Central African Republic",
+                "slug": "central-african-republic",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Africa"
+            },
+            {
+                "code": "TD",
+                "name": "Chad",
+                "slug": "chad",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Africa"
+            },
+            {
+                "code": "CL",
+                "name": "Chile",
+                "slug": "chile",
+                "voltage": "220V",
+                "frequency": "50Hz",
+                "region": "Americas"
+            },
+            {
+                "code": "CN",
+                "name": "China",
+                "slug": "china",
+                "voltage": "220V",
+                "frequency": "50Hz",
+                "region": "Asia"
+            },
+            {
+                "code": "CO",
+                "name": "Colombia",
+                "slug": "colombia",
+                "voltage": "110V",
+                "frequency": "60Hz",
+                "region": "Americas"
+            },
+            {
+                "code": "KM",
+                "name": "Comoros",
+                "slug": "comoros",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Africa"
+            },
+            {
+                "code": "CG",
+                "name": "Congo",
+                "slug": "congo",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Africa"
+            },
+            {
+                "code": "CR",
+                "name": "Costa Rica",
+                "slug": "costa-rica",
+                "voltage": "120V",
+                "frequency": "60Hz",
+                "region": "Americas"
+            },
+            {
+                "code": "HR",
+                "name": "Croatia",
+                "slug": "croatia",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Europe"
+            },
+            {
+                "code": "CU",
+                "name": "Cuba",
+                "slug": "cuba",
+                "voltage": "110V\/220V",
+                "frequency": "60Hz",
+                "region": "Americas"
+            },
+            {
+                "code": "CY",
+                "name": "Cyprus",
+                "slug": "cyprus",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Europe"
+            },
+            {
+                "code": "CZ",
+                "name": "Czechia",
+                "slug": "czechia",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Europe"
+            },
+            {
+                "code": "DK",
+                "name": "Denmark",
+                "slug": "denmark",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Europe"
+            },
+            {
+                "code": "DJ",
+                "name": "Djibouti",
+                "slug": "djibouti",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Africa"
+            },
+            {
+                "code": "DM",
+                "name": "Dominica",
+                "slug": "dominica",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Americas"
+            },
+            {
+                "code": "DO",
+                "name": "Dominican Republic",
+                "slug": "dominican-republic",
+                "voltage": "120V",
+                "frequency": "60Hz",
+                "region": "Americas"
+            },
+            {
+                "code": "CD",
+                "name": "DR Congo",
+                "slug": "dr-congo",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Africa"
+            },
+            {
+                "code": "EC",
+                "name": "Ecuador",
+                "slug": "ecuador",
+                "voltage": "120V",
+                "frequency": "60Hz",
+                "region": "Americas"
+            },
+            {
+                "code": "EG",
+                "name": "Egypt",
+                "slug": "egypt",
+                "voltage": "220V",
+                "frequency": "50Hz",
+                "region": "Africa"
+            },
+            {
+                "code": "SV",
+                "name": "El Salvador",
+                "slug": "el-salvador",
+                "voltage": "120V",
+                "frequency": "60Hz",
+                "region": "Americas"
+            },
+            {
+                "code": "GQ",
+                "name": "Equatorial Guinea",
+                "slug": "equatorial-guinea",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Africa"
+            },
+            {
+                "code": "ER",
+                "name": "Eritrea",
+                "slug": "eritrea",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Africa"
+            },
+            {
+                "code": "EE",
+                "name": "Estonia",
+                "slug": "estonia",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Europe"
+            },
+            {
+                "code": "SZ",
+                "name": "Eswatini",
+                "slug": "eswatini",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Africa"
+            },
+            {
+                "code": "ET",
+                "name": "Ethiopia",
+                "slug": "ethiopia",
+                "voltage": "220V",
+                "frequency": "50Hz",
+                "region": "Africa"
+            },
+            {
+                "code": "FO",
+                "name": "Faroe Islands",
+                "slug": "faroe-islands",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Europe"
+            },
+            {
+                "code": "FJ",
+                "name": "Fiji",
+                "slug": "fiji",
+                "voltage": "240V",
+                "frequency": "50Hz",
+                "region": "Oceania"
+            },
+            {
+                "code": "FI",
+                "name": "Finland",
+                "slug": "finland",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Europe"
+            },
+            {
+                "code": "FR",
+                "name": "France",
+                "slug": "france",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Europe"
+            },
+            {
+                "code": "GF",
+                "name": "French Guiana",
+                "slug": "french-guiana",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Americas"
+            },
+            {
+                "code": "PF",
+                "name": "French Polynesia",
+                "slug": "french-polynesia",
+                "voltage": "230V",
+                "frequency": "60Hz",
+                "region": "Oceania"
+            },
+            {
+                "code": "GA",
+                "name": "Gabon",
+                "slug": "gabon",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Africa"
+            },
+            {
+                "code": "GM",
+                "name": "Gambia",
+                "slug": "gambia",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Africa"
+            },
+            {
+                "code": "GE",
+                "name": "Georgia",
+                "slug": "georgia",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Asia"
+            },
+            {
+                "code": "DE",
+                "name": "Germany",
+                "slug": "germany",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Europe"
+            },
+            {
+                "code": "GH",
+                "name": "Ghana",
+                "slug": "ghana",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Africa"
+            },
+            {
+                "code": "GI",
+                "name": "Gibraltar",
+                "slug": "gibraltar",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Europe"
+            },
+            {
+                "code": "GR",
+                "name": "Greece",
+                "slug": "greece",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Europe"
+            },
+            {
+                "code": "GL",
+                "name": "Greenland",
+                "slug": "greenland",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Europe"
+            },
+            {
+                "code": "GD",
+                "name": "Grenada",
+                "slug": "grenada",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Americas"
+            },
+            {
+                "code": "GT",
+                "name": "Guatemala",
+                "slug": "guatemala",
+                "voltage": "120V",
+                "frequency": "60Hz",
+                "region": "Americas"
+            },
+            {
+                "code": "GN",
+                "name": "Guinea",
+                "slug": "guinea",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Africa"
+            },
+            {
+                "code": "GW",
+                "name": "Guinea-Bissau",
+                "slug": "guinea-bissau",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Africa"
+            },
+            {
+                "code": "GY",
+                "name": "Guyana",
+                "slug": "guyana",
+                "voltage": "240V",
+                "frequency": "60Hz",
+                "region": "Americas"
+            },
+            {
+                "code": "HT",
+                "name": "Haiti",
+                "slug": "haiti",
+                "voltage": "110V",
+                "frequency": "60Hz",
+                "region": "Americas"
+            },
+            {
+                "code": "HN",
+                "name": "Honduras",
+                "slug": "honduras",
+                "voltage": "120V",
+                "frequency": "60Hz",
+                "region": "Americas"
+            },
+            {
+                "code": "HK",
+                "name": "Hong Kong",
+                "slug": "hong-kong",
+                "voltage": "220V",
+                "frequency": "50Hz",
+                "region": "Asia"
+            },
+            {
+                "code": "HU",
+                "name": "Hungary",
+                "slug": "hungary",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Europe"
+            },
+            {
+                "code": "IS",
+                "name": "Iceland",
+                "slug": "iceland",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Europe"
+            },
+            {
+                "code": "IN",
+                "name": "India",
+                "slug": "india",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Asia"
+            },
+            {
+                "code": "ID",
+                "name": "Indonesia",
+                "slug": "indonesia",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Asia"
+            },
+            {
+                "code": "IR",
+                "name": "Iran",
+                "slug": "iran",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Asia"
+            },
+            {
+                "code": "IQ",
+                "name": "Iraq",
+                "slug": "iraq",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Asia"
+            },
+            {
+                "code": "IE",
+                "name": "Ireland",
+                "slug": "ireland",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Europe"
+            },
+            {
+                "code": "IL",
+                "name": "Israel",
+                "slug": "israel",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Asia"
+            },
+            {
+                "code": "IT",
+                "name": "Italy",
+                "slug": "italy",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Europe"
+            },
+            {
+                "code": "CI",
+                "name": "Ivory Coast",
+                "slug": "ivory-coast",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Africa"
+            },
+            {
+                "code": "JM",
+                "name": "Jamaica",
+                "slug": "jamaica",
+                "voltage": "110V",
+                "frequency": "50Hz",
+                "region": "Americas"
+            },
+            {
+                "code": "JP",
+                "name": "Japan",
+                "slug": "japan",
+                "voltage": "100V",
+                "frequency": "50\/60Hz",
+                "region": "Asia"
+            },
+            {
+                "code": "JO",
+                "name": "Jordan",
+                "slug": "jordan",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Asia"
+            },
+            {
+                "code": "KZ",
+                "name": "Kazakhstan",
+                "slug": "kazakhstan",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Asia"
+            },
+            {
+                "code": "KE",
+                "name": "Kenya",
+                "slug": "kenya",
+                "voltage": "240V",
+                "frequency": "50Hz",
+                "region": "Africa"
+            },
+            {
+                "code": "XK",
+                "name": "Kosovo",
+                "slug": "kosovo",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Europe"
+            },
+            {
+                "code": "KW",
+                "name": "Kuwait",
+                "slug": "kuwait",
+                "voltage": "240V",
+                "frequency": "50Hz",
+                "region": "Asia"
+            },
+            {
+                "code": "KG",
+                "name": "Kyrgyzstan",
+                "slug": "kyrgyzstan",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Asia"
+            },
+            {
+                "code": "LA",
+                "name": "Laos",
+                "slug": "laos",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Asia"
+            },
+            {
+                "code": "LV",
+                "name": "Latvia",
+                "slug": "latvia",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Europe"
+            },
+            {
+                "code": "LB",
+                "name": "Lebanon",
+                "slug": "lebanon",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Asia"
+            },
+            {
+                "code": "LS",
+                "name": "Lesotho",
+                "slug": "lesotho",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Africa"
+            },
+            {
+                "code": "LR",
+                "name": "Liberia",
+                "slug": "liberia",
+                "voltage": "120V",
+                "frequency": "60Hz",
+                "region": "Africa"
+            },
+            {
+                "code": "LY",
+                "name": "Libya",
+                "slug": "libya",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Africa"
+            },
+            {
+                "code": "LI",
+                "name": "Liechtenstein",
+                "slug": "liechtenstein",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Europe"
+            },
+            {
+                "code": "LT",
+                "name": "Lithuania",
+                "slug": "lithuania",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Europe"
+            },
+            {
+                "code": "LU",
+                "name": "Luxembourg",
+                "slug": "luxembourg",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Europe"
+            },
+            {
+                "code": "MO",
+                "name": "Macau",
+                "slug": "macau",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Asia"
+            },
+            {
+                "code": "MG",
+                "name": "Madagascar",
+                "slug": "madagascar",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Africa"
+            },
+            {
+                "code": "MW",
+                "name": "Malawi",
+                "slug": "malawi",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Africa"
+            },
+            {
+                "code": "MY",
+                "name": "Malaysia",
+                "slug": "malaysia",
+                "voltage": "240V",
+                "frequency": "50Hz",
+                "region": "Asia"
+            },
+            {
+                "code": "MV",
+                "name": "Maldives",
+                "slug": "maldives",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Asia"
+            },
+            {
+                "code": "ML",
+                "name": "Mali",
+                "slug": "mali",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Africa"
+            },
+            {
+                "code": "MT",
+                "name": "Malta",
+                "slug": "malta",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Europe"
+            },
+            {
+                "code": "MR",
+                "name": "Mauritania",
+                "slug": "mauritania",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Africa"
+            },
+            {
+                "code": "MU",
+                "name": "Mauritius",
+                "slug": "mauritius",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Africa"
+            },
+            {
+                "code": "MX",
+                "name": "Mexico",
+                "slug": "mexico",
+                "voltage": "127V",
+                "frequency": "60Hz",
+                "region": "Americas"
+            },
+            {
+                "code": "MD",
+                "name": "Moldova",
+                "slug": "moldova",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Europe"
+            },
+            {
+                "code": "MC",
+                "name": "Monaco",
+                "slug": "monaco",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Europe"
+            },
+            {
+                "code": "MN",
+                "name": "Mongolia",
+                "slug": "mongolia",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Asia"
+            },
+            {
+                "code": "ME",
+                "name": "Montenegro",
+                "slug": "montenegro",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Europe"
+            },
+            {
+                "code": "MA",
+                "name": "Morocco",
+                "slug": "morocco",
+                "voltage": "220V",
+                "frequency": "50Hz",
+                "region": "Africa"
+            },
+            {
+                "code": "MZ",
+                "name": "Mozambique",
+                "slug": "mozambique",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Africa"
+            },
+            {
+                "code": "MM",
+                "name": "Myanmar",
+                "slug": "myanmar",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Asia"
+            },
+            {
+                "code": "NA",
+                "name": "Namibia",
+                "slug": "namibia",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Africa"
+            },
+            {
+                "code": "NP",
+                "name": "Nepal",
+                "slug": "nepal",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Asia"
+            },
+            {
+                "code": "NL",
+                "name": "Netherlands",
+                "slug": "netherlands",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Europe"
+            },
+            {
+                "code": "NC",
+                "name": "New Caledonia",
+                "slug": "new-caledonia",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Oceania"
+            },
+            {
+                "code": "NZ",
+                "name": "New Zealand",
+                "slug": "new-zealand",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Oceania"
+            },
+            {
+                "code": "NI",
+                "name": "Nicaragua",
+                "slug": "nicaragua",
+                "voltage": "120V",
+                "frequency": "60Hz",
+                "region": "Americas"
+            },
+            {
+                "code": "NE",
+                "name": "Niger",
+                "slug": "niger",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Africa"
+            },
+            {
+                "code": "NG",
+                "name": "Nigeria",
+                "slug": "nigeria",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Africa"
+            },
+            {
+                "code": "KP",
+                "name": "North Korea",
+                "slug": "north-korea",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Asia"
+            },
+            {
+                "code": "MK",
+                "name": "North Macedonia",
+                "slug": "north-macedonia",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Europe"
+            },
+            {
+                "code": "NO",
+                "name": "Norway",
+                "slug": "norway",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Europe"
+            },
+            {
+                "code": "OM",
+                "name": "Oman",
+                "slug": "oman",
+                "voltage": "240V",
+                "frequency": "50Hz",
+                "region": "Asia"
+            },
+            {
+                "code": "PK",
+                "name": "Pakistan",
+                "slug": "pakistan",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Asia"
+            },
+            {
+                "code": "PS",
+                "name": "Palestine",
+                "slug": "palestine",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Asia"
+            },
+            {
+                "code": "PA",
+                "name": "Panama",
+                "slug": "panama",
+                "voltage": "120V",
+                "frequency": "60Hz",
+                "region": "Americas"
+            },
+            {
+                "code": "PG",
+                "name": "Papua New Guinea",
+                "slug": "papua-new-guinea",
+                "voltage": "240V",
+                "frequency": "50Hz",
+                "region": "Oceania"
+            },
+            {
+                "code": "PY",
+                "name": "Paraguay",
+                "slug": "paraguay",
+                "voltage": "220V",
+                "frequency": "50Hz",
+                "region": "Americas"
+            },
+            {
+                "code": "PE",
+                "name": "Peru",
+                "slug": "peru",
+                "voltage": "220V",
+                "frequency": "60Hz",
+                "region": "Americas"
+            },
+            {
+                "code": "PH",
+                "name": "Philippines",
+                "slug": "philippines",
+                "voltage": "220V",
+                "frequency": "60Hz",
+                "region": "Asia"
+            },
+            {
+                "code": "PL",
+                "name": "Poland",
+                "slug": "poland",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Europe"
+            },
+            {
+                "code": "PT",
+                "name": "Portugal",
+                "slug": "portugal",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Europe"
+            },
+            {
+                "code": "PR",
+                "name": "Puerto Rico",
+                "slug": "puerto-rico",
+                "voltage": "120V",
+                "frequency": "60Hz",
+                "region": "Americas"
+            },
+            {
+                "code": "QA",
+                "name": "Qatar",
+                "slug": "qatar",
+                "voltage": "240V",
+                "frequency": "50Hz",
+                "region": "Asia"
+            },
+            {
+                "code": "RO",
+                "name": "Romania",
+                "slug": "romania",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Europe"
+            },
+            {
+                "code": "RU",
+                "name": "Russia",
+                "slug": "russia",
+                "voltage": "220V",
+                "frequency": "50Hz",
+                "region": "Europe"
+            },
+            {
+                "code": "RW",
+                "name": "Rwanda",
+                "slug": "rwanda",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Africa"
+            },
+            {
+                "code": "KN",
+                "name": "Saint Kitts and Nevis",
+                "slug": "saint-kitts-and-nevis",
+                "voltage": "230V",
+                "frequency": "60Hz",
+                "region": "Americas"
+            },
+            {
+                "code": "LC",
+                "name": "Saint Lucia",
+                "slug": "saint-lucia",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Americas"
+            },
+            {
+                "code": "VC",
+                "name": "Saint Vincent and the Grenadines",
+                "slug": "saint-vincent-and-the-grenadines",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Americas"
+            },
+            {
+                "code": "WS",
+                "name": "Samoa",
+                "slug": "samoa",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Oceania"
+            },
+            {
+                "code": "SM",
+                "name": "San Marino",
+                "slug": "san-marino",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Europe"
+            },
+            {
+                "code": "ST",
+                "name": "Sao Tome and Principe",
+                "slug": "sao-tome-and-principe",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Africa"
+            },
+            {
+                "code": "SA",
+                "name": "Saudi Arabia",
+                "slug": "saudi-arabia",
+                "voltage": "230V",
+                "frequency": "60Hz",
+                "region": "Asia"
+            },
+            {
+                "code": "SN",
+                "name": "Senegal",
+                "slug": "senegal",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Africa"
+            },
+            {
+                "code": "RS",
+                "name": "Serbia",
+                "slug": "serbia",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Europe"
+            },
+            {
+                "code": "SC",
+                "name": "Seychelles",
+                "slug": "seychelles",
+                "voltage": "240V",
+                "frequency": "50Hz",
+                "region": "Africa"
+            },
+            {
+                "code": "SL",
+                "name": "Sierra Leone",
+                "slug": "sierra-leone",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Africa"
+            },
+            {
+                "code": "SG",
+                "name": "Singapore",
+                "slug": "singapore",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Asia"
+            },
+            {
+                "code": "SK",
+                "name": "Slovakia",
+                "slug": "slovakia",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Europe"
+            },
+            {
+                "code": "SI",
+                "name": "Slovenia",
+                "slug": "slovenia",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Europe"
+            },
+            {
+                "code": "SB",
+                "name": "Solomon Islands",
+                "slug": "solomon-islands",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Oceania"
+            },
+            {
+                "code": "SO",
+                "name": "Somalia",
+                "slug": "somalia",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Africa"
+            },
+            {
+                "code": "ZA",
+                "name": "South Africa",
+                "slug": "south-africa",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Africa"
+            },
+            {
+                "code": "KR",
+                "name": "South Korea",
+                "slug": "south-korea",
+                "voltage": "220V",
+                "frequency": "60Hz",
+                "region": "Asia"
+            },
+            {
+                "code": "SS",
+                "name": "South Sudan",
+                "slug": "south-sudan",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Africa"
+            },
+            {
+                "code": "ES",
+                "name": "Spain",
+                "slug": "spain",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Europe"
+            },
+            {
+                "code": "LK",
+                "name": "Sri Lanka",
+                "slug": "sri-lanka",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Asia"
+            },
+            {
+                "code": "SD",
+                "name": "Sudan",
+                "slug": "sudan",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Africa"
+            },
+            {
+                "code": "SR",
+                "name": "Suriname",
+                "slug": "suriname",
+                "voltage": "127V",
+                "frequency": "60Hz",
+                "region": "Americas"
+            },
+            {
+                "code": "SE",
+                "name": "Sweden",
+                "slug": "sweden",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Europe"
+            },
+            {
+                "code": "CH",
+                "name": "Switzerland",
+                "slug": "switzerland",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Europe"
+            },
+            {
+                "code": "SY",
+                "name": "Syria",
+                "slug": "syria",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Asia"
+            },
+            {
+                "code": "TW",
+                "name": "Taiwan",
+                "slug": "taiwan",
+                "voltage": "110V",
+                "frequency": "60Hz",
+                "region": "Asia"
+            },
+            {
+                "code": "TJ",
+                "name": "Tajikistan",
+                "slug": "tajikistan",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Asia"
+            },
+            {
+                "code": "TZ",
+                "name": "Tanzania",
+                "slug": "tanzania",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Africa"
+            },
+            {
+                "code": "TH",
+                "name": "Thailand",
+                "slug": "thailand",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Asia"
+            },
+            {
+                "code": "TL",
+                "name": "Timor-Leste",
+                "slug": "timor-leste",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Asia"
+            },
+            {
+                "code": "TG",
+                "name": "Togo",
+                "slug": "togo",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Africa"
+            },
+            {
+                "code": "TO",
+                "name": "Tonga",
+                "slug": "tonga",
+                "voltage": "240V",
+                "frequency": "50Hz",
+                "region": "Oceania"
+            },
+            {
+                "code": "TT",
+                "name": "Trinidad and Tobago",
+                "slug": "trinidad-and-tobago",
+                "voltage": "115V",
+                "frequency": "60Hz",
+                "region": "Americas"
+            },
+            {
+                "code": "TN",
+                "name": "Tunisia",
+                "slug": "tunisia",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Africa"
+            },
+            {
+                "code": "TR",
+                "name": "Turkey",
+                "slug": "turkey",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Europe"
+            },
+            {
+                "code": "TM",
+                "name": "Turkmenistan",
+                "slug": "turkmenistan",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Asia"
+            },
+            {
+                "code": "UG",
+                "name": "Uganda",
+                "slug": "uganda",
+                "voltage": "240V",
+                "frequency": "50Hz",
+                "region": "Africa"
+            },
+            {
+                "code": "UA",
+                "name": "Ukraine",
+                "slug": "ukraine",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Europe"
+            },
+            {
+                "code": "AE",
+                "name": "United Arab Emirates",
+                "slug": "united-arab-emirates",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Asia"
+            },
+            {
+                "code": "GB",
+                "name": "United Kingdom",
+                "slug": "united-kingdom",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Europe"
+            },
+            {
+                "code": "US",
+                "name": "United States",
+                "slug": "united-states",
+                "voltage": "120V",
+                "frequency": "60Hz",
+                "region": "Americas"
+            },
+            {
+                "code": "UY",
+                "name": "Uruguay",
+                "slug": "uruguay",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Americas"
+            },
+            {
+                "code": "UZ",
+                "name": "Uzbekistan",
+                "slug": "uzbekistan",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Asia"
+            },
+            {
+                "code": "VU",
+                "name": "Vanuatu",
+                "slug": "vanuatu",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Oceania"
+            },
+            {
+                "code": "VA",
+                "name": "Vatican City",
+                "slug": "vatican-city",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Europe"
+            },
+            {
+                "code": "VE",
+                "name": "Venezuela",
+                "slug": "venezuela",
+                "voltage": "120V",
+                "frequency": "60Hz",
+                "region": "Americas"
+            },
+            {
+                "code": "VN",
+                "name": "Vietnam",
+                "slug": "vietnam",
+                "voltage": "220V",
+                "frequency": "50Hz",
+                "region": "Asia"
+            },
+            {
+                "code": "YE",
+                "name": "Yemen",
+                "slug": "yemen",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Asia"
+            },
+            {
+                "code": "ZM",
+                "name": "Zambia",
+                "slug": "zambia",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Africa"
+            },
+            {
+                "code": "ZW",
+                "name": "Zimbabwe",
+                "slug": "zimbabwe",
+                "voltage": "230V",
+                "frequency": "50Hz",
+                "region": "Africa"
+            }
+        ]
+    }
+}

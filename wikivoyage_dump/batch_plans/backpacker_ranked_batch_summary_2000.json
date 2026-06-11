@@ -1,0 +1,195 @@
+[
+  {
+    "batch": 1,
+    "count": 2000,
+    "score_min": 2400.0,
+    "score_max": 2560.0,
+    "score_avg": 2416.8,
+    "page_len_avg": 44598,
+    "top_titles": "Barcelona; Prague; Buenos Aires; Taipei; Cairo; Madrid; Lisbon; Seoul; Delhi; Kyoto; Long Beach Island; Sequoia and Kings Canyon National Parks",
+    "kind_counts": {
+      "city": 1999,
+      "park": 1
+    }
+  },
+  {
+    "batch": 2,
+    "count": 2000,
+    "score_min": 2391.24,
+    "score_max": 2400.0,
+    "score_avg": 2396.7,
+    "page_len_avg": 20118,
+    "top_titles": "Benin City; Kalgoorlie–Boulder; Malang; Steamboat Springs; Vechtstreek; Kano; Kyrenia; Joliette; Gallipoli (Italy); Shawinigan; Dessau; Lishui",
+    "kind_counts": {
+      "city": 1999,
+      "neighborhood": 1
+    }
+  },
+  {
+    "batch": 3,
+    "count": 2000,
+    "score_min": 2352.45,
+    "score_max": 2391.24,
+    "score_avg": 2366.0,
+    "page_len_avg": 13377,
+    "top_titles": "Bundi; Capital Region (Maryland); Annascaul; Lyme Regis; Sandwich (Massachusetts); Cullera; Tena; Khotan; Reutte; Lohja; Stockton-on-Tees; Meghalaya",
+    "kind_counts": {
+      "city": 1969,
+      "park": 21,
+      "neighborhood": 10
+    }
+  },
+  {
+    "batch": 4,
+    "count": 2000,
+    "score_min": 2342.72,
+    "score_max": 2352.44,
+    "score_avg": 2347.4,
+    "page_len_avg": 11783,
+    "top_titles": "Bridge River Valley; Jurmo; Carndonagh; Gagra; Pitt Meadows; Batu Pahat; Modica; Clacton; Cody; Aurora (Illinois); Barry; Upland",
+    "kind_counts": {
+      "city": 2000
+    }
+  },
+  {
+    "batch": 5,
+    "count": 2000,
+    "score_min": 2315.0,
+    "score_max": 2342.71,
+    "score_avg": 2333.9,
+    "page_len_avg": 11453,
+    "top_titles": "Takachiho; Fethard-on-Sea; Diamond Valley; Falmouth (Jamaica); Minamidaito; Odemira; Formosa (Brazil); Bonnyville; Cala Millor; Bonaventure; Vama Veche; Stony Point",
+    "kind_counts": {
+      "city": 1826,
+      "park": 127,
+      "neighborhood": 47
+    }
+  },
+  {
+    "batch": 6,
+    "count": 2000,
+    "score_min": 2226.42,
+    "score_max": 2315.0,
+    "score_avg": 2276.5,
+    "page_len_avg": 18011,
+    "top_titles": "Jerusalem/West; Bangkok/Khao San Road; Hyderabad/Central; London/Greenwich; Bangkok/Yaowarat and Phahurat; Manhattan/Upper East Side; Hong Kong/Kowloon; Calgary/City Centre; Saint Petersburg/South; Warsaw/Śródmieście; Oslo/Sentrum; San Francisco/Civic Center-Tenderloin",
+    "kind_counts": {
+      "city": 968,
+      "neighborhood": 839,
+      "park": 193
+    }
+  },
+  {
+    "batch": 7,
+    "count": 2000,
+    "score_min": 2148.02,
+    "score_max": 2226.4,
+    "score_avg": 2189.9,
+    "page_len_avg": 5981,
+    "top_titles": "Yoro; San Germán; Bensheim; Paluma; Sisimiut; Columbiana; Wadsworth; Oga; Titisee-Neustadt; Oberwesel; Quezon City/Diliman and Katipunan; Hartola",
+    "kind_counts": {
+      "city": 1890,
+      "neighborhood": 71,
+      "park": 39
+    }
+  },
+  {
+    "batch": 8,
+    "count": 2000,
+    "score_min": 2034.69,
+    "score_max": 2148.02,
+    "score_avg": 2059.5,
+    "page_len_avg": 5039,
+    "top_titles": "North Charleston; Vernon (New Jersey); Boki; Stone Harbor; Burney; Western Hamilton County; Kunene; Foster; Cornwall (Connecticut); Sea Ranch; Ikirun; Kalpitiya",
+    "kind_counts": {
+      "city": 1902,
+      "park": 72,
+      "neighborhood": 26
+    }
+  },
+  {
+    "batch": 9,
+    "count": 2000,
+    "score_min": 1980.0,
+    "score_max": 2034.69,
+    "score_avg": 2012.0,
+    "page_len_avg": 9984,
+    "top_titles": "Latina; Springville; Vidalia (Georgia); Warren (Michigan); Anaklia; Izola; Arujá; Nilo Peçanha; Annavaram; Ikeshima; Júzcar; Boten",
+    "kind_counts": {
+      "city": 1953,
+      "park": 43,
+      "neighborhood": 4
+    }
+  },
+  {
+    "batch": 10,
+    "count": 2000,
+    "score_min": 1742.16,
+    "score_max": 1980.0,
+    "score_avg": 1862.8,
+    "page_len_avg": 3575,
+    "top_titles": "Madagascar; Lithuania; Andorra; Brunei; Luxembourg; Maldives; Fiji; Papikonda National Park; Souss-Massa National Park; Northern Mariana Islands; Queen Elizabeth National Park; Fir of Hotova National Park",
+    "kind_counts": {
+      "city": 1869,
+      "park": 101,
+      "neighborhood": 30
+    }
+  },
+  {
+    "batch": 11,
+    "count": 2000,
+    "score_min": 453.37,
+    "score_max": 1742.14,
+    "score_avg": 907.0,
+    "page_len_avg": 8500,
+    "top_titles": "Salem (Missouri); Popoyo; Pearl Lagoon; Liaoyuan; Linden (Guyana); Mormon Lake Village; Nanuet; Douglas (Georgia); Balmazújváros; Rosignano Marittimo; Nea Phokea; Chalatenango",
+    "kind_counts": {
+      "unknown": 1301,
+      "city": 544,
+      "town": 89,
+      "village": 16,
+      "county": 10,
+      "park": 8,
+      "city_town_village": 7,
+      "neighborhood": 5
+    }
+  },
+  {
+    "batch": 12,
+    "count": 2000,
+    "score_min": 247.71,
+    "score_max": 453.35,
+    "score_avg": 354.0,
+    "page_len_avg": 3348,
+    "top_titles": "Sant Pol de Mar; Ekom-Nkam Waterfalls; Sühbaatar; Amelia (Ohio); Memphis (Egypt); Nasu; Ak-Suu; Maibara; Probištip; Lisieux; Vienne (city); Clayton (Georgia)",
+    "kind_counts": {
+      "unknown": 1965,
+      "town": 10,
+      "region": 9,
+      "city": 3,
+      "island": 2,
+      "national_seashore": 2,
+      "county": 2,
+      "park": 1
+    }
+  },
+  {
+    "batch": 13,
+    "count": 1760,
+    "score_min": -1524.69,
+    "score_max": 247.66,
+    "score_avg": 125.5,
+    "page_len_avg": 2274,
+    "top_titles": "Simunul; Rochester (New Hampshire); Jeongeup; Dallas (Georgia); Macerata; Chamela-Cuixmala Biosphere Reserve; Zuwara; Malilipot; Hot Springs (North Carolina); Khar Zurkhnii Khokh Nuur; Tiruvuru; Florida (Puerto Rico)",
+    "kind_counts": {
+      "unknown": 1411,
+      "town": 90,
+      "city": 58,
+      "village": 32,
+      "island": 10,
+      "suburb": 10,
+      "archaeological_site": 9,
+      "other": 8
+    }
+  }
+]

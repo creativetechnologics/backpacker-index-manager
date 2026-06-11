@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Backpacker Index · Initial Fill</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <header>
+    <h1>Backpacker Index · Initial Fill</h1>
+    <nav>
+      <button class="tab active" data-tab="run">Run</button>
+      <button class="tab" data-tab="config">Configure</button>
+      <button class="tab" data-tab="logs">Logs</button>
+      <span class="status-pill" id="run-state">idle</span>
+    </nav>
+  </header>
+
+  <main>
+    <!-- Run tab -->
+    <section id="tab-run" class="active">
+      <div id="keys-banner" class="banner hidden"></div>
+      <div id="start-feedback" class="toast-inline hidden"></div>
+
+      <div class="meta">
+        <div><span class="label">Total</span><span id="total-articles">0</span></div>
+        <div><span class="label">Done</span><span id="total-done">0</span></div>
+        <div><span class="label">In flight</span><span id="total-in-progress">0</span></div>
+        <div><span class="label">Pending</span><span id="total-pending">0</span></div>
+        <div><span class="label">Cooldown</span><span id="total-waiting">0</span></div>
+        <div><span class="label">Failed</span><span id="total-failed">0</span></div>
+        <div class="actions">
+          <button id="btn-start" class="primary">Start</button>
+          <button id="btn-stop" class="danger">Stop</button>
+        </div>
+      </div>
+
+      <div class="global-progress">
+        <div class="global-progress-label">
+          <span id="global-progress-pct">0%</span> complete
+          · <span id="global-progress-detail">0 / 0</span>
+          · Elapsed <span id="elapsed">—</span>
+          · State <span id="run-state" class="status-pill">idle</span>
+        </div>
+        <div class="global-progress-bar unified" id="global-progress-bar" title="done | in flight | cooldown | failed | pending"></div>
+        <div class="global-progress-legend">
+          <span class="lg lg-done">● Done</span>
+          <span class="lg lg-inflight">● In flight</span>
+          <span class="lg lg-waiting">● In cooldown</span>
+          <span class="lg lg-failed">● Failed</span>
+          <span class="lg lg-pending">● Pending</span>
+        </div>
+      </div>
+
+      <h2>Tasks</h2>
+      <div class="tasks" id="tasks-grid">
+        <p class="empty">Loading tasks…</p>
+      </div>
+
+      <h2>Recent activity</h2>
+      <div class="activity-wrap">
+        <table class="activity">
+          <thead>
+            <tr>
+              <th>Status</th>
+              <th>Slug (click to open)</th>
+              <th>Task</th>
+              <th>Lane</th>
+              <th>Size</th>
+              <th>Elapsed</th>
+              <th>DB</th>
+              <th>At</th>
+            </tr>
+          </thead>
+          <tbody id="activity-body">
+            <tr><td colspan="8" class="empty">No activity yet.</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- Configure tab -->
+    <section id="tab-config">
+      <h2>Lanes</h2>
+      <p class="muted">Each lane processes articles within its size range. Articles already done by any lane are skipped.</p>
+      <div id="lanes-config">
+        <p class="empty">Loading…</p>
+      </div>
+      <div class="row">
+        <button id="btn-save-lanes" class="primary">Save lanes</button>
+        <button id="btn-reset-lanes" class="ghost danger">Reset to defaults</button>
+        <span class="muted" id="lanes-status"></span>
+      </div>
+    </section>
+
+    <!-- Logs tab -->
+    <section id="tab-logs">
+      <h2>Activity log</h2>
+      <pre id="logs">Loading…</pre>
+    </section>
+  </main>
+
+  <script src="/static/dashboard.js"></script>
+</body>
+</html>

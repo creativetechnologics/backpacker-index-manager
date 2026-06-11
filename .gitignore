@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+
+# Large data dumps
+*.bz2
+*.xml
+*.xml.gz
+
+# Local state and caches
+reference_cache/
+*.log
+
+# OS
+.DS_Store

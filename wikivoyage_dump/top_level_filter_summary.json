@@ -1,0 +1,38 @@
+{
+  "total_candidates": 31632,
+  "filtered_total": 2136,
+  "remaining_total": 29496,
+  "filtered_by_bucket": {
+    "other_destinations": 6,
+    "itineraries": 591,
+    "phrasebooks": 313,
+    "travel_topics": 1226
+  },
+  "unresolved_parent_chains": 117,
+  "matched_by_sample": {
+    "itineraries::ancestor:Europe itineraries": 210,
+    "travel_topics::ancestor:Cultural attractions": 141,
+    "travel_topics::ancestor:Historical travel": 125,
+    "travel_topics::ancestor:Activities": 114,
+    "itineraries::ancestor:North America itineraries": 96,
+    "travel_topics::ancestor:Food and drink": 81,
+    "travel_topics::ancestor:Natural attractions": 76,
+    "travel_topics::ancestor:Concerns": 76,
+    "travel_topics::ancestor:Transportation": 74,
+    "travel_topics::ancestor:Driving": 52,
+    "travel_topics::ancestor:National parks": 51,
+    "travel_topics::ancestor:Fiction tourism": 47,
+    "itineraries::ancestor:Asia itineraries": 44,
+    "travel_topics::ancestor:Rail travel": 42,
+    "travel_topics::ancestor:European history": 42,
+    "travel_topics::ancestor:Stay safe": 31,
+    "travel_topics::ancestor:Stay healthy": 31,
+    "itineraries::ancestor:Oceania itineraries": 31,
+    "travel_topics::ancestor:Reasons to travel": 30,
+    "travel_topics::ancestor:Architecture": 30
+  },
+  "outputs": {
+    "filtered": "/Users/gary/Programming/Backpacker Index/wikivoyage_dump/top_level_filtered_articles.jsonl",
+    "remaining": "/Users/gary/Programming/Backpacker Index/wikivoyage_dump/top_level_remaining_candidates.jsonl"
+  }
+}

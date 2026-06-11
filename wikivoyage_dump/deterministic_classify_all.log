@@ -1,0 +1,32 @@
+[18:58:27] Deterministic classify all: 31612 articles selected; no LLM; output=/Volumes/Storage VIII/Programming/Website Redesigns/Backpacker Index/wikivoyage_dump/deterministic_article_classification.jsonl
+[18:58:31] Deterministic progress processed=1000 counts={'canonical_destination': 728, 'supporting_topic': 20, 'hierarchy_node': 109, 'unresolved': 135, 'attachable_resource': 8}
+[18:58:35] Deterministic progress processed=2000 counts={'canonical_destination': 1502, 'supporting_topic': 36, 'hierarchy_node': 195, 'unresolved': 245, 'attachable_resource': 22}
+[18:58:40] Deterministic progress processed=3000 counts={'canonical_destination': 2291, 'supporting_topic': 49, 'hierarchy_node': 271, 'unresolved': 360, 'attachable_resource': 29}
+[18:58:43] Deterministic progress processed=4000 counts={'canonical_destination': 2972, 'supporting_topic': 60, 'hierarchy_node': 468, 'unresolved': 457, 'attachable_resource': 43}
+[18:58:47] Deterministic progress processed=5000 counts={'canonical_destination': 3560, 'supporting_topic': 72, 'hierarchy_node': 535, 'unresolved': 575, 'attachable_resource': 258}
+[18:58:51] Deterministic progress processed=6000 counts={'canonical_destination': 4279, 'supporting_topic': 95, 'hierarchy_node': 681, 'unresolved': 674, 'attachable_resource': 271}
+[18:58:54] Deterministic progress processed=7000 counts={'canonical_destination': 4989, 'supporting_topic': 111, 'hierarchy_node': 800, 'unresolved': 816, 'attachable_resource': 284}
+[18:58:59] Deterministic progress processed=8000 counts={'canonical_destination': 5731, 'supporting_topic': 138, 'hierarchy_node': 891, 'unresolved': 951, 'attachable_resource': 289}
+[18:59:04] Deterministic progress processed=9000 counts={'canonical_destination': 6496, 'supporting_topic': 149, 'hierarchy_node': 966, 'unresolved': 1087, 'attachable_resource': 302}
+[18:59:07] Deterministic progress processed=10000 counts={'canonical_destination': 7241, 'supporting_topic': 162, 'hierarchy_node': 1063, 'unresolved': 1227, 'attachable_resource': 307}
+[18:59:12] Deterministic progress processed=11000 counts={'canonical_destination': 8022, 'supporting_topic': 177, 'hierarchy_node': 1147, 'unresolved': 1338, 'attachable_resource': 316}
+[18:59:16] Deterministic progress processed=12000 counts={'canonical_destination': 8747, 'supporting_topic': 184, 'hierarchy_node': 1247, 'unresolved': 1471, 'attachable_resource': 351}
+[18:59:19] Deterministic progress processed=13000 counts={'canonical_destination': 9346, 'supporting_topic': 190, 'hierarchy_node': 1518, 'unresolved': 1585, 'attachable_resource': 361}
+[18:59:23] Deterministic progress processed=14000 counts={'canonical_destination': 10105, 'supporting_topic': 197, 'hierarchy_node': 1607, 'unresolved': 1721, 'attachable_resource': 370}
+[18:59:26] Deterministic progress processed=15000 counts={'canonical_destination': 10882, 'supporting_topic': 211, 'hierarchy_node': 1692, 'unresolved': 1842, 'attachable_resource': 373}
+[18:59:30] Deterministic progress processed=16000 counts={'canonical_destination': 11635, 'supporting_topic': 226, 'hierarchy_node': 1785, 'unresolved': 1968, 'attachable_resource': 386}
+[18:59:33] Deterministic progress processed=17000 counts={'canonical_destination': 12262, 'supporting_topic': 238, 'hierarchy_node': 2025, 'unresolved': 2077, 'attachable_resource': 398}
+[18:59:38] Deterministic progress processed=18000 counts={'canonical_destination': 13030, 'supporting_topic': 258, 'hierarchy_node': 2095, 'unresolved': 2207, 'attachable_resource': 410}
+[18:59:45] Deterministic progress processed=19000 counts={'canonical_destination': 13779, 'supporting_topic': 276, 'hierarchy_node': 2198, 'unresolved': 2330, 'attachable_resource': 417}
+[18:59:50] Deterministic progress processed=20000 counts={'canonical_destination': 14486, 'supporting_topic': 291, 'hierarchy_node': 2335, 'unresolved': 2460, 'attachable_resource': 428}
+[18:59:57] Deterministic progress processed=21000 counts={'canonical_destination': 15078, 'supporting_topic': 316, 'hierarchy_node': 2407, 'unresolved': 2748, 'attachable_resource': 451}
+[19:00:07] Deterministic progress processed=22000 counts={'canonical_destination': 15719, 'supporting_topic': 360, 'hierarchy_node': 2456, 'unresolved': 2995, 'attachable_resource': 470}
+[19:00:12] Deterministic progress processed=23000 counts={'canonical_destination': 16357, 'supporting_topic': 385, 'hierarchy_node': 2503, 'unresolved': 3249, 'attachable_resource': 506}
+[19:00:19] Deterministic progress processed=24000 counts={'canonical_destination': 16944, 'supporting_topic': 411, 'hierarchy_node': 2532, 'unresolved': 3583, 'attachable_resource': 530}
+[19:00:24] Deterministic progress processed=25000 counts={'canonical_destination': 17567, 'supporting_topic': 455, 'hierarchy_node': 2604, 'unresolved': 3822, 'attachable_resource': 552}
+[19:00:28] Deterministic progress processed=26000 counts={'canonical_destination': 18159, 'supporting_topic': 488, 'hierarchy_node': 2633, 'unresolved': 4115, 'attachable_resource': 605}
+[19:00:34] Deterministic progress processed=27000 counts={'canonical_destination': 18765, 'supporting_topic': 518, 'hierarchy_node': 2665, 'unresolved': 4425, 'attachable_resource': 627}
+[19:00:37] Deterministic progress processed=28000 counts={'canonical_destination': 19414, 'supporting_topic': 548, 'hierarchy_node': 2711, 'unresolved': 4682, 'attachable_resource': 645}
+[19:00:42] Deterministic progress processed=29000 counts={'canonical_destination': 20018, 'supporting_topic': 588, 'hierarchy_node': 2770, 'unresolved': 4944, 'attachable_resource': 680}
+[19:00:45] Deterministic progress processed=30000 counts={'canonical_destination': 20598, 'supporting_topic': 649, 'hierarchy_node': 2823, 'unresolved': 5213, 'attachable_resource': 717}
+Interrupted.
