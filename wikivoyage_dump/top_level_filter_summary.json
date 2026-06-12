@@ -32,7 +32,7 @@
     "travel_topics::ancestor:Architecture": 30
   },
   "outputs": {
-    "filtered": "/Users/gary/Programming/Backpacker Index/wikivoyage_dump/top_level_filtered_articles.jsonl",
-    "remaining": "/Users/gary/Programming/Backpacker Index/wikivoyage_dump/top_level_remaining_candidates.jsonl"
+    "filtered": "/Users/gary/Programming/Backpacker Index/Backpacker Index Manager/wikivoyage_dump/top_level_filtered_articles.jsonl",
+    "remaining": "/Users/gary/Programming/Backpacker Index/Backpacker Index Manager/wikivoyage_dump/top_level_remaining_candidates.jsonl"
   }
 }

@@ -42,7 +42,7 @@
     "Ajmer Division"
   ],
   "outputs": {
-    "llm_ready": "/Users/gary/Programming/Backpacker Index/wikivoyage_dump/llm_ready_places.jsonl",
-    "excluded": "/Users/gary/Programming/Backpacker Index/wikivoyage_dump/layer2_excluded_non_places.jsonl"
+    "llm_ready": "/Users/gary/Programming/Backpacker Index/Backpacker Index Manager/wikivoyage_dump/llm_ready_places.jsonl",
+    "excluded": "/Users/gary/Programming/Backpacker Index/Backpacker Index Manager/wikivoyage_dump/layer2_excluded_non_places.jsonl"
   }
 }
