@@ -26,7 +26,9 @@ from pydantic import BaseModel
 from sse_starlette.sse import EventSourceResponse
 
 import fill_state
+import flight_fares
 import lane_config
+from flight_fares import ManualFareImportRequest
 from lane_config import Lane
 from orchestrator import Orchestrator
 
@@ -169,6 +171,38 @@ def api_status() -> dict[str, Any]:
         }
 
     return _cache_get("status", 2.0, build)
+
+
+@app.get("/api/flight-agent/status")
+def api_flight_agent_status() -> dict[str, Any]:
+    try:
+        return {"flightAgent": {"enabled": os.environ.get("ENABLE_FLIGHT_INTELLIGENCE_AGENT", "false").lower() in {"1", "true", "yes", "on"}, **flight_fares.flight_agent_health()}}
+    except Exception as exc:
+        raise HTTPException(status_code=500, detail=str(exc)) from exc
+
+
+@app.get("/api/flight-agent/queue")
+def api_flight_agent_queue(limit: int = 50) -> dict[str, Any]:
+    try:
+        return flight_fares.queue_preview(limit)
+    except Exception as exc:
+        raise HTTPException(status_code=500, detail=str(exc)) from exc
+
+
+@app.post("/api/flights/manual-fares/preview")
+def api_manual_fares_preview(req: ManualFareImportRequest) -> dict[str, Any]:
+    return flight_fares.preview_manual_import(req)
+
+
+@app.post("/api/flights/manual-fares/import")
+async def api_manual_fares_import(req: ManualFareImportRequest) -> dict[str, Any]:
+    try:
+        result = flight_fares.apply_manual_import(req)
+    except Exception as exc:
+        raise HTTPException(status_code=500, detail=str(exc)) from exc
+    if result.get("ok"):
+        await_broadcast({"event": "flight_fares_changed", "result": result})
+    return result
 
 
 @app.get("/api/tasks")
